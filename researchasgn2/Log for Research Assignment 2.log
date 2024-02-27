@@ -1,0 +1,3002 @@
+-------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  /Users/aborjon/Desktop/stats2/soc211/Log for Research Assignment 2
+> .log
+  log type:  text
+ opened on:  12 Feb 2024, 23:08:18
+year          socommun      advfam        deptperf      spwknokd
+id            socfrend      advtchr       indperf       spwkbaby
+wrkstat       socbar        advstu        extr2001      spwrksch
+hrs1          aged          advsup        extraval      spwkgrwn
+hrs2          weekswrk      advcowrk      extrayr       mehhwork
+evwork        partfull      advcfrnd      yearval       mekdcare
+wrkslf        joblose       advofrnd      seecowrk      laundry1
+wrkgovt       jobfind       advlib        cowrkhrd      repairs1
+occ80         satjob        download      talkemp       caresik1
+prestg80      richwork      hlthinfo      talksup       shop1
+indus80       class         hlthpapr      donothng      clean1
+found         satfin        hlthmag1      lastwkmo      cooking1
+occ10         finalter      hlthmag2      lastwkyr      rhhwork
+occindv       finrela       hlthdoc       empathy1      sphhwork
+occstatus     wksub         hlthfrel      empathy2      hhwkfair
+occtag        wksubs        hlthtv        empathy3      hhwkdis
+prestg10      wksup         hlthwww       empathy4      deckids
+prestg105p~s  wksups        buyinfgn      empathy5      weekend
+indus10       unemp         investgn      empathy6      buythngs
+indstatus     union         travelgn      empathy7      timehome
+indtag        getahead      peoplegn      givblood      strsshme
+marital       parsol        gamegn        givhmlss      timework
+divorce       kidssol       poldisgn      retchnge      strsswrk
+widowed       fepol         polinfgn      cutahead      tiredhme
+spwrksta      abdefect      perfrmgn      volchrty      jobvsfam
+sphrs1        abnomore      artgn         givchrty      tiredwrk
+sphrs2        abhlth        polcangn      givseat       famvswrk
+spevwork      abpoor        numcntct      helpaway      happy7
+spwrkslf      abrape        inperson      carried       satjob7
+spocc80       absingle      byphone       directns      satfam7
+sppres80      abany         letters       loanitem      fewknokd
+spind80       chldidel      meetings      selfless      twoincs1
+spocc10       pillok        byemail       accptoth      earnshh
+spoccindv     sexeduc       comphome      othshelp      stress
+spoccstatus   divlaw        wwwhome       careself      localnum
+spocctag      premarsx      wwwline1      peoptrbl      hapunhap
+sppres10      teensex       wwwline2      selffrst      partners
+sppres105p~s  xmarsex       emminh        finind        matesex
+spind10       homosex       emhrh         finind1       frndsex
+spindstatus   pornlaw       wwwminh       ownhh         acqntsex
+spindtag      xmovie        wwwhrh        ownhh1        pikupsex
+pawrkslf      spanking      compwork      eddone        paidsex
+paocc80       letdie1       emminw        eddone1       othersex
+papres80      suicide1      emhrw         ftwork        sexsex
+paind80       suicide2      wwwminw       ftwork1       sexfreq
+paocc10       suicide3      wwwhrw        supfam        numwomen
+paoccindv     suicide4      compoth       supfam1       nummen
+paoccstatus   polhitok      compschl      havchld       partnrs5
+paocctag      polabuse      complib       havchld1      sexsex5
+papres10      polmurdr      compfri       getmar        evpaidsx
+papres105p~s  polescap      compelse      getmar1       evstray
+paind10       polattak      mostloc       boycott       condom
+paindstatus   fear          emmino        signpet       relatsex
+paindtag      owngun        emhro         protest       evidu
+maocc80       pistol        wwwmino       conoffcl      idu30
+mapres80      shotgun       wwwhro        givchng       evcrack
+mawrkslf      rifle         emsent        hlpneedy      crack30
+maind80       rowngun       emsentp       partthon      realinc
+maocc10       hunt          emget         chldvig       realrinc
+maoccindv     news          emgetp        chldprb       coninc
+maoccstatus   tvhours       emwrkloc      chldprob      conrinc
+maocctag      phone         emwrkawy      chldhlp       ethnic
+mapres10      coop          emfamloc      badchar       eth1
+mapres105p~s  comprend      emfamoth      chembal       eth2
+maind10       form          emfri         stressfl      eth3
+maindstatus   fechld        emchurch      geneprob      ethnum
+maindtag      fepresch      emgroups      raised        hispanic
+sibs          fefam         numprobs      violtv        racecen1
+childs        racdif1       byemprob      discipln      racecen2
+age           racdif2       intaccss      allergic      racecen3
+agekdbrn      racdif3       jobinfo       bettrown      dwelling
+educ          racdif4       jobpaper      imprvdis      dwelown
+paeduc        helppoor      jobpub        imprveat      relate1
+maeduc        helpnot       jobcowrk      imprvmed      gender1
+speduc        helpsick      jobcntct      nextdoor      old1
+degree        helpblk       jobfrnds      spendeve      mar1
+padeg         wlthwhts      jobplace      chldfrnd      relate2
+madeg         wlthblks      jobtvrad      chldsch       gender2
+spdeg         workwhts      jobonwww      adfam         old2
+sex           workblks      emailyr       adfammed      mar2
+race          intlwhts      webyr         adtch         relate3
+res16         intlblks      webable       adtchmed      gender3
+reg16         liveblks      manbook       addoc         old3
+mobile16      livewhts      cussup        addocmed      mar3
+family16      marblk        tecsup        adcou         relate4
+famdif16      marwht        askwksch      adcoumed      gender4
+mawrkgrw      racwork       askelse       adpsy         old4
+incom16       discaff       payelse       adpsymed      mar4
+born          visitart      doself        adhos         relate5
+parborn       makeart       processr      adhosmed      gender5
+granborn      dance         browser1      forcedoc      old5
+hompop        gomusic       browser2      forcemed      mar5
+babies        perform       browser3      forcehos      relate6
+preteen       seemovie      advsrch       grwingup      gender6
+teens         plymusic      mp3           mntlill       old6
+adults        fejobaff      ezines        illphys       mar6
+unrelat       discaffm      prefsets      violpeop      relate7
+earnrs        discaffw      newsgrps      violself      gender7
+income        fehire        ethimp        outsider      old7
+rincome       knwmhosp      ethignor      sufadult      mar7
+income98      knwpatnt      ethnofit      comknows      relate8
+rincom98      readfict      ethtrads      failure       gender8
+region        popmusic      ethadapt      ovrmedkd      old8
+xnorcsiz      drama         feelblks      medkdneg      mar8
+srcbelt       compuse       feelasns      putsoff       relate9
+size          webtv         feelhsps      trbllaw       old9
+partyid       emailmin      feelwhts      medsavtx      relate10
+vote96        emailhr       ethsame       zombies       gender10
+pres96        usewww        ethdiff       pryntfam      old10
+if96who       wwwhr         whtsdiff      adhdknow      relate11
+vote00        wwwmin        docvig        adhdknw       gender11
+pres00        chathr        regdoc        adhdreal      old11
+if00who       chatmin       regdocyr      adhdcon       mar11
+polviews      drctlink      docaskme      adhdmed       relate12
+natspac       typeurl       docdecid      mntlrel       gender12
+natenvir      srcheng       docrely       medsymps      old12
+natheal       bookmark      hlthplan      medaddct      relhhd1
+natcity       catdrcty      chosedoc      medweak       relhhd2
+natcrime      hyperlnk      insrlmts      medunacc      relhhd3
+natdrug       emaillnk      diffcare      solveown      relhhd4
+nateduc       fin30         fininc        doc15a        relhhd5
+natrace       schl30        fininc1       doc16a        relhhd6
+natarms       educ30        fininc2       doc18a        relhhd7
+nataid        work30        fininc3       doc19a        relhhd8
+natfare       news30        fininc4       doc20a        relhhd9
+natroad       govt30        belvedoc      aidold        relhhd10
+natsoc        pol30         docinfo       matime1       relhhd11
+natmass       travel30      docnomri      sibnum        relhhd12
+natpark       sports30      docsat        sibmost       hefinfo
+natchld       music30       doccosts      sibvisit      hhrace
+natsci        art30         docswtch      sibcall       respnum
+natspacy      tvmov30       insrchng      kidnum        hhtype
+natenviy      health30      secopin       kidmost       hhtype1
+nathealy      relig30       wrktype       kidvisit      famgen
+natcityy      games30       yearsjob      kidcall       rplace
+natcrimy      humor30       waypaid       pavisit1      rvisitor
+natdrugy      porn30        wrksched      pacall1       visitors
+nateducy      person30      moredays      mavisit1      relhh1
+natracey      sci30         mustwork      macall1       relhh2
+natarmsy      hobby30       chngtme       uncaunts      relhh3
+nataidy       cook30        wrkhome       cousins       relhh4
+natfarey      work12        whywkhme      parslaw       relhh5
+eqwlth        hmefin12      famwkoff      sibinlaw      relhh6
+tax           buyinf12      wkvsfam       niecenep      relhh7
+spkath        buyit12       famvswk       godparts      relhh8
+colath        invest12      hrsrelax      cowrkfrd      relhh9
+libath        people12      secondwk      neifrd        relhh10
+spkrac        health12      learnnew      bestfrd       relhh11
+colrac        travel12      workfast      bstvisit      relhh12
+librac        locate12      workdiff      bstcall       relsp1
+spkcom        game12        lotofsay      grppol        relsp2
+colcom        newjob12      wktopsat      grpunion      relsp3
+libcom        chat12        overwork      grpchurh      relsp4
+spkmil        polinf12      knowwhat      grpsport      relsp5
+colmil        econ12        myskills      grpchrty      relsp6
+libmil        abort12       respect       grpnei        relsp7
+spkhomo       moral12       trustman      grpoth        relsp8
+colhomo       foraff12      safetywk      sick1a        relsp9
+libhomo       racrel12      safefrst      sick2a        relsp10
+cappun        enviro12      teamsafe      borrow1a      relsp11
+gunlaw        polcam12      safehlth      borrow2a      dateintv
+courts        gun12         proudemp      down1a        isco681
+grass         taxes12       prodctiv      down2a        paisc681
+relig         fe12          wksmooth      helphwrk      maisc681
+denom         news12        trdunion      lentto        spisc681
+other         polagree      partteam      talkedto      isco88
+jew           polneutl      wkdecide      helpjob       paisco88
+fund          poldsagr      setthngs      learnjob      maisco88
+attend        petition      toofewwk      frdthink      spisco88
+reliten       contact       promteok      frdhelps      sei
+postlife      meeting       opdevel       frdknows      pasei
+pray          polnew        hlpequip      frdenjoy      masei
+relig16       votefor       haveinfo      kidpars       spsei
+denom16       polchnge      wkfreedm      firstyou      sei10
+oth16         polforms      fringeok      helpfrds      sei10educ
+jew16         polconf       supcares      usefrds       sei10inc
+fund16        polalter      condemnd      aidkids       pasei10
+prayer        poltough      promtefr      othfrd        pasei10educ
+bible         artsmin       cowrkint      demands       pasei10inc
+world1        artshr        jobsecok      trustpeo      masei10
+racmar        artschat      suphelp       wantbest      masei10educ
+racpush       artsnew       wrktime       advantge      masei10inc
+raclive       artschng      cowrkhlp      comyear       spsei10
+affrmact      wwwmusic      trainops      localgvt      spsei10educ
+wrkwayup      musicinf      manvsemp      goodlife      spsei10inc
+blksimp       musicget      hvylift       mawrkwrm      uswary
+closeblk      musiclst      handmove      kidsuffr      cohort
+closewht      musicbuy      wkpraise      famsuffr      zodiac
+happy         musiclke      wkbonus       homekid       whoelse1
+hapmar        musicdif      fairearn      housewrk      whoelse2
+health        musicnew      rincblls      fejobind      whoelse3
+life          wwwart        laidoff       wrknokid      whoelse4
+helpful       artmus1       jobfind1      wrkbaby       whoelse5
+fair          artmus2       trynewjb      wrksch        whoelse6
+trust         artview       wkageism      wrkgrown      saqissp
+confinan      artinfo       wkracism      marhappy      saqsex
+conbus        artmus3       wksexism      marnomar      feeused
+conclerg      wwwlit        wkharsex      marlegit      death
+coneduc       litsite       wkharoth      kidjoy        ballot
+confed        litget        health1       kidempty      version
+conlabor      litauth       physhlth      mawork14      issp
+conpress      litread       mntlhlth      rwrknokd      formwt
+conmedic      wwwpersn      hlthdays      rwrkbaby      sampcode
+contv         wwwsp         usedup        rwrksch       sample
+conjudge      wwwgfbf       backpain      rwrkgrwn      oversamp
+consci        wwwcowrk      painarms      hubbywk1      wtss
+conlegis      wwwbiz        hurtatwk      meovrwrk      wtssnr
+conarmy       wwwnei        satjob1       singlpar      wtssall
+obey          wwwfrnd       workfor       cohabok       vstrat
+popular       wwwvol        ownstock      cohabfst      vpsu
+thnkself      advsp         stockval      divbest       wtssps
+workhard      advchld       stockops      mapaid        wtssnrps
+helpoth       advpar        extrapay      chldcare      fileversion
+socrel        advsib        compperf      fambudgt
+
+Variable      Storage   Display    Value
+    name         type    format    label      Variable label
+-------------------------------------------------------------------------------
+adhdreal        byte    %29.0g     YESNO_UPPER
+                                              is adhd a real disease
+childs          byte    %29.0g     NUM8F      number of children
+educ            byte    %29.0g     EDUC       highest year of school completed
+adhdcon         byte    %29.0g     YESNO_UPPER
+                                              children should be given
+                                                counseling for adhd
+adhdmed         byte    %29.0g     YESNO_UPPER
+                                              children should be given
+                                                medication to treat adhd
+
+Contains data from /Users/aborjon/Desktop/stats2/soc211/GSS 2022 Data/GSS2002.d
+> ta
+ Observations:         2,765                  
+    Variables:         1,069                  11 Jan 2024 10:15
+-------------------------------------------------------------------------------
+Variable      Storage   Display    Value
+    name         type    format    label      Variable label
+-------------------------------------------------------------------------------
+year            int     %29.0g     COUNTMISS
+                                              gss year for this respondent
+id              int     %8.0g                 respondent id number
+wrkstat         byte    %74.0g     WRKSTAT    labor force status
+hrs1            byte    %29.0g     WKHRS      number of hours worked last week
+hrs2            byte    %29.0g     WKHRS      number of hours usually work a
+                                                week
+evwork          byte    %29.0g     YESNO      ever work as long as one year
+wrkslf          byte    %29.0g     WRKSLF     r self-emp or works for somebody
+wrkgovt         byte    %29.0g     WRKGOVT    govt or private employee
+occ80           int     %72.0g     OCC80A     r's census occupation code (1980)
+prestg80        byte    %29.0g     COUNTMISS
+                                              r's occupational prestige
+                                                score(1980)
+indus80         int     %62.0g     INDUS80A   r's industry code (1980)
+found           byte    %29.0g     FOUNDA     case was retrievable in 2012
+occ10           int     %106.0g    OCC10F     r's census occupation code (2010)
+occindv         byte    %29.0g     OCCINDVA   r's occ/ind verbatim retrieved
+occstatus       byte    %29.0g     INDSTATA   occ10 coding status
+occtag          byte    %29.0g     INDTAGA    occ10 coding tag
+prestg10        byte    %29.0g     COUNTMISS
+                                              r's occupational prestige score
+                                                (2010)
+prestg105plus   byte    %29.0g     COUNTMISS
+                                              r's occupational prestige score
+                                                using threshold method (2010)
+indus10         int     %112.0g    INDST70F   r's industry code (naics 2007)
+indstatus       byte    %29.0g     INDSTATA   indus10 coding status
+indtag          byte    %29.0g     INDTAGA    indus10 coding tag
+marital         byte    %29.0g     MARITAL    marital status
+divorce         byte    %29.0g     YESNO      ever been divorced or separated
+widowed         byte    %29.0g     YESNO      ever been widowed
+spwrksta        byte    %74.0g     WRKSTAT    spouse labor force status
+sphrs1          byte    %29.0g     WKHRS      number of hrs spouse worked last
+                                                week
+sphrs2          byte    %29.0g     WKHRS      no. of hrs spouse usually works a
+                                                week
+spevwork        byte    %29.0g     YESNO      spouse ever work as long as a
+                                                year
+spwrkslf        byte    %29.0g     WRKSLF     spouse self-emp. or works for
+                                                somebody
+spocc80         int     %72.0g     OCC80A     spouse census occupation code
+                                                (1980)
+sppres80        byte    %29.0g     COUNTMISS
+                                              spouse's occupational prestige
+                                                score (1980)
+spind80         int     %62.0g     INDUS80A   spouse's industry code (1980)
+spocc10         int     %106.0g    OCC10F     spouse census occupation code
+                                                (2010)
+spoccindv       byte    %29.0g     SPOCCINA   spouse's occ/ind verbatim
+                                                retrieved
+spoccstatus     byte    %29.0g     INDSTATA   spocc10 coding status
+spocctag        byte    %29.0g     INDTAGA    spocc10 coding tag
+sppres10        byte    %29.0g     COUNTMISS
+                                              spouse occupational prestige
+                                                score (2010)
+sppres105plus   byte    %29.0g     COUNTMISS
+                                              spouse occupational prestige
+                                                score using threshold method
+                                                (2010)
+spind10         int     %112.0g    INDST70F   spouse's industry code (naics
+                                                2007)
+spindstatus     byte    %29.0g     INDSTATA   spind10 coding status
+spindtag        byte    %29.0g     INDTAGA    spind10 coding tag
+pawrkslf        byte    %29.0g     WRKSLF     father self-emp. or worked for
+                                                somebody
+paocc80         int     %72.0g     OCC80A     father's census occupation code
+                                                (1980)
+papres80        byte    %29.0g     COUNTMISS
+                                              father's occupational prestige
+                                                score (1980)
+paind80         int     %62.0g     INDUS80A   father's industry code (1980)
+paocc10         int     %106.0g    OCC10F     father's census occupation code
+                                                (2010)
+paoccindv       byte    %29.0g     PAOCCINA   father's occ/ind verbatim
+                                                retrieved
+paoccstatus     byte    %29.0g     INDSTATA   paocc10 coding status
+paocctag        byte    %29.0g     INDTAGA    paocc10 coding tag
+papres10        byte    %29.0g     COUNTMISS
+                                              father's occupational prestige
+                                                score (2010)
+papres105plus   byte    %29.0g     COUNTMISS
+                                              father's occupational prestige
+                                                score using threshold method
+                                                (2010)
+paind10         int     %112.0g    INDST70F   father's industry code (naics
+                                                2007)
+paindstatus     byte    %29.0g     INDSTATA   paind10 coding status
+paindtag        byte    %29.0g     INDTAGA    paind10 coding tag
+maocc80         int     %72.0g     OCC80A     mothers census occupation code
+                                                (1980)
+mapres80        byte    %29.0g     COUNTMISS
+                                              mothers occupational prestige
+                                                score (1980)
+mawrkslf        byte    %29.0g     WRKSLF     mother self-emp. or worked for
+                                                somebody
+maind80         int     %62.0g     INDUS80A   mothers industry code (1980)
+maocc10         int     %106.0g    OCC10F     mothers census occupation code
+                                                (2010)
+maoccindv       byte    %29.0g     MAOCCINA   mothers occ/ind verbatim
+                                                retrieved
+maoccstatus     byte    %29.0g     INDSTATA   maocc10 coding status
+maocctag        byte    %29.0g     INDTAGA    maocc10 coding tag
+mapres10        byte    %29.0g     COUNTMISS
+                                              mothers occupational prestige
+                                                score (2010)
+mapres105plus   byte    %29.0g     COUNTMISS
+                                              mothers occupational prestige
+                                                score using threshold method
+                                                (2010)
+maind10         int     %112.0g    INDST70F   mothers industry code (naics
+                                                2007)
+maindstatus     byte    %29.0g     INDSTATA   maind10 coding status
+maindtag        byte    %29.0g     INDTAGA    maind10 coding tag
+sibs            byte    %29.0g     COUNTMISS
+                                              number of brothers and sisters
+childs          byte    %29.0g     NUM8F      number of children
+age             byte    %29.0g     AGE        age of respondent
+agekdbrn        byte    %29.0g     COUNTMISS
+                                              r's age when 1st child born
+educ            byte    %29.0g     EDUC       highest year of school completed
+paeduc          byte    %29.0g     EDUC       highest year school completed,
+                                                father
+maeduc          byte    %29.0g     EDUC       highest year school completed,
+                                                mother
+speduc          byte    %29.0g     EDUC       highest year school completed,
+                                                spouse
+degree          byte    %29.0g     DEGREE     r's highest degree
+padeg           byte    %29.0g     DEGREE     father's highest degree
+madeg           byte    %29.0g     DEGREE     mothers highest degree
+spdeg           byte    %29.0g     DEGREE     spouse's highest degree
+sex             byte    %29.0g     GENDER     respondents sex
+race            byte    %29.0g     RACE       race of respondent
+res16           byte    %38.0g     RES16F     type of place lived in when 16
+                                                yrs old
+reg16           byte    %29.0g     REG16F     region of residence, age 16
+mobile16        byte    %29.0g     MOBILE16F
+                                              geographic mobility since age 16
+family16        byte    %69.0g     FAMILY16F
+                                              living with parents when 16 yrs
+                                                old
+famdif16        byte    %34.0g     FAMDIF16F
+                                              reason not living with parents
+mawrkgrw        byte    %29.0g     YESNO      mothers employment when r was 16
+incom16         byte    %29.0g     INCOM16F   r's family income when 16 yrs old
+born            byte    %29.0g     YESNO      was r born in this country
+parborn         byte    %36.0g     PARBORN    were r's parents born in this
+                                                country
+granborn        byte    %29.0g     GRANBORN   how many grandparents born
+                                                outside u.s.
+hompop          byte    %29.0g     COUNTMISS
+                                              number of persons in household
+babies          byte    %29.0g     BABIES     household members less than 6 yrs
+                                                old
+preteen         byte    %35.0g     PRETEEN    household members 6 thru 12 yrs
+                                                old
+teens           byte    %36.0g     TEENS      household members 13 thru 17 yrs
+                                                old
+adults          byte    %29.0g     ADULTS     household members 18 yrs and
+                                                older (household roster)
+unrelat         byte    %29.0g     NUM8F      number in household not related
+earnrs          byte    %29.0g     EARNRS     how many in family earned money
+income          byte    %29.0g     INCOME     total family income
+rincome         byte    %29.0g     INCOME     respondents income
+income98        byte    %29.0g     INCOME98F
+                                              total family income
+rincom98        byte    %29.0g     INCOME98F
+                                              respondents income
+region          byte    %29.0g     REGION     region of interview
+xnorcsiz        byte    %80.0g     XNORCSIZ   expanded norc size code
+srcbelt         byte    %56.0g     SRCBELT    src beltcode
+size            int     %29.0g     COUNTMISS
+                                              size of place in 1000s
+partyid         byte    %34.0g     PARTYID    political party affiliation
+vote96          byte    %29.0g     VOTE96A    did r vote in 1996 election
+pres96          byte    %29.0g     PRES96A    vote for clinton, dole, perot
+if96who         byte    %29.0g     IF96WHOA   who would r have voted for-1996
+                                                election
+vote00          byte    %29.0g     VOTE00A    did r vote in 2000 election
+pres00          byte    %29.0g     PRES00A    vote for gore, bush, nader
+if00who         byte    %29.0g     IF00WHOA   who would r has voted for in 2000
+                                                election
+polviews        byte    %29.0g     POLVIEWS   think of self as liberal or
+                                                conservative
+natspac         byte    %29.0g     NATSPEND   space exploration program
+natenvir        byte    %29.0g     NATSPEND   improving & protecting
+                                                environment
+natheal         byte    %29.0g     NATSPEND   improving & protecting nations
+                                                health
+natcity         byte    %29.0g     NATSPEND   solving problems of big cities
+natcrime        byte    %29.0g     NATSPEND   halting rising crime rate
+natdrug         byte    %29.0g     NATSPEND   dealing with drug addiction
+nateduc         byte    %29.0g     NATSPEND   improving nations education
+                                                system
+natrace         byte    %29.0g     NATSPEND   improving the conditions of
+                                                blacks
+natarms         byte    %29.0g     NATSPEND   military, armaments, and defense
+nataid          byte    %29.0g     NATSPEND   foreign aid
+natfare         byte    %29.0g     NATSPEND   welfare
+natroad         byte    %29.0g     NATSPEND   highways and bridges
+natsoc          byte    %29.0g     NATSPEND   social security
+natmass         byte    %29.0g     NATSPEND   mass transportation
+natpark         byte    %29.0g     NATSPEND   parks and recreation
+natchld         byte    %29.0g     NATSPEND   assistance for childcare
+natsci          byte    %29.0g     NATSPEND   supporting scientific research
+natspacy        byte    %29.0g     NATSPEND   space exploration:version y
+natenviy        byte    %29.0g     NATSPEND   the environment:version y
+nathealy        byte    %29.0g     NATSPEND   health:version y
+natcityy        byte    %29.0g     NATSPEND   assistance to big cities:version
+                                                y
+natcrimy        byte    %29.0g     NATSPEND   law enforcement:version y
+natdrugy        byte    %29.0g     NATSPEND   drug rehabilitation:version y
+nateducy        byte    %29.0g     NATSPEND   education:version y
+natracey        byte    %29.0g     NATSPEND   assistance to blacks:version y
+natarmsy        byte    %29.0g     NATSPEND   national defense:version y
+nataidy         byte    %29.0g     NATSPEND   assistance to other countries:ver
+                                                y
+natfarey        byte    %29.0g     NATSPEND   assistance to the poor:version y
+eqwlth          byte    %73.0g     EQWLTH     should govt reduce income
+                                                differences
+tax             byte    %29.0g     TAX        r's federal income tax
+spkath          byte    %29.0g     SPEAK      allow anti-religionist to speak
+colath          byte    %29.0g     COLTCH     allow anti-religionist to teach
+libath          byte    %29.0g     LIBREM     allow anti-religious book in
+                                                library
+spkrac          byte    %29.0g     SPEAK      allow racist to speak
+colrac          byte    %29.0g     COLTCH     allow racist to teach
+librac          byte    %29.0g     LIBREM     allow racists book in library
+spkcom          byte    %29.0g     SPEAK      allow communist to speak
+colcom          byte    %29.0g     COLCOM     should communist teacher be fired
+libcom          byte    %29.0g     LIBREM     allow communists book in library
+spkmil          byte    %29.0g     SPEAK      allow militarist to speak
+colmil          byte    %29.0g     COLTCH     allow militarist to teach
+libmil          byte    %29.0g     LIBREM     allow militarists book in library
+spkhomo         byte    %29.0g     SPEAK      allow homosexual to speak
+colhomo         byte    %29.0g     COLTCH     allow homosexual to teach
+libhomo         byte    %29.0g     LIBREM     allow homosexuals book in library
+cappun          byte    %29.0g     FAVOROPPOSE
+                                              favor or oppose death penalty for
+                                                murder
+gunlaw          byte    %29.0g     FAVOROPPOSE
+                                              favor or oppose gun permits
+courts          byte    %29.0g     COURTS     courts dealing with criminals
+grass           byte    %29.0g     GRASS      should marijuana be made legal
+relig           byte    %29.0g     RELIG      r's religious preference
+denom           byte    %44.0g     DENOM      specific denomination
+other           int     %52.0g     OTHER      other protestant denominations
+jew             byte    %29.0g     JEWISH     what sort of jew r is
+fund            byte    %29.0g     FUND       how fundamentalist is r currently
+attend          byte    %29.0g     ATTEND     how often r attends religious
+                                                services
+reliten         byte    %29.0g     RELITEN    strength of affiliation
+postlife        byte    %29.0g     YESNO      belief in life after death
+pray            byte    %29.0g     PRAY       how often does r pray
+relig16         byte    %29.0g     RELIG      religion in which raised
+denom16         byte    %44.0g     DENOM      denomination in which r was
+                                                raised
+oth16           int     %52.0g     OTHER      other protestant denominations
+jew16           byte    %29.0g     JEWISH     what sort of jew r was at age 16
+fund16          byte    %29.0g     FUND       how fundamentalist was r at age
+                                                16
+prayer          byte    %29.0g     PRAYER     bible prayer in public schools
+bible           byte    %29.0g     BIBLE      feelings about the bible
+world1          byte    %29.0g     WORLD1A    world image:much evil vs. much
+                                                good
+racmar          byte    %29.0g     YESNO_UPPER
+                                              favor law against racial
+                                                intermarriage
+racpush         byte    %29.0g     RACPUSHA   blacks shouldn't push
+raclive         byte    %29.0g     YESNO      any opp. race in neighborhood
+affrmact        byte    %29.0g     AFFRMACT   favor preference in hiring blacks
+wrkwayup        byte    %29.0g     WRKWAYUP   blacks overcome prejudice without
+                                                favors
+blksimp         byte    %29.0g     BLKSIMPA   have conditions for blacks
+                                                improved
+closeblk        byte    %29.0g     CLOSE      how close feel to blacks
+closewht        byte    %29.0g     CLOSE      how close feel to whites
+happy           byte    %29.0g     HAPPY      general happiness
+hapmar          byte    %29.0g     HAPPY      happiness of marriage
+health          byte    %29.0g     HEALTH     condition of health
+life            byte    %29.0g     LIFE       is life exciting or dull
+helpful         byte    %29.0g     HELPFUL    people helpful or looking out for
+                                                selves
+fair            byte    %29.0g     FAIR       people fair or try to take
+                                                advantage
+trust           byte    %29.0g     TRUST      can people be trusted
+confinan        byte    %29.0g     INSTCONF   confid in banks & financial
+                                                institutions
+conbus          byte    %29.0g     INSTCONF   confidence in major companies
+conclerg        byte    %29.0g     INSTCONF   confidence in organized religion
+coneduc         byte    %29.0g     INSTCONF   confidence in education
+confed          byte    %29.0g     INSTCONF   confid. in exec branch of fed
+                                                govt
+conlabor        byte    %29.0g     INSTCONF   confidence in organized labor
+conpress        byte    %29.0g     INSTCONF   confidence in press
+conmedic        byte    %29.0g     INSTCONF   confidence in medicine
+contv           byte    %29.0g     INSTCONF   confidence in television
+conjudge        byte    %29.0g     INSTCONF   confid. in united states supreme
+                                                court
+consci          byte    %29.0g     INSTCONF   confidence in scientific
+                                                community
+conlegis        byte    %29.0g     INSTCONF   confidence in congress
+conarmy         byte    %29.0g     INSTCONF   confidence in military
+obey            byte    %29.0g     LIFEPREP   to obey
+popular         byte    %29.0g     LIFEPREP   to be well liked or popular
+thnkself        byte    %29.0g     LIFEPREP   to think for ones self
+workhard        byte    %29.0g     LIFEPREP   to work hard
+helpoth         byte    %29.0g     LIFEPREP   to help others
+socrel          byte    %29.0g     SOCIAL     spend evening with relatives
+socommun        byte    %29.0g     SOCIAL     spend evening with neighbor
+socfrend        byte    %29.0g     SOCIAL     spend evening with friends
+socbar          byte    %29.0g     SOCIAL     spend evening at bar
+aged            byte    %29.0g     AGEDLIVE   should aged live with their
+                                                children
+weekswrk        byte    %29.0g     WEEKSWRK   weeks r worked last year
+partfull        byte    %29.0g     PARTFULL   was r's work part-time or
+                                                full-time?
+joblose         byte    %29.0g     JOBLOSE    is r likely to lose job
+jobfind         byte    %29.0g     JOBFIND    could r find equally good job
+satjob          byte    %29.0g     SATJOB     work satisfaction
+richwork        byte    %29.0g     RICHWORK   if rich, continue or stop working
+class           byte    %29.0g     CLASS      subjective class identification
+satfin          byte    %29.0g     SATFIN     satisfaction with financial
+                                                situation
+finalter        byte    %29.0g     FINALTER   change in financial situation
+finrela         byte    %29.0g     AVERAGESCALE
+                                              opinion of family income
+wksub           byte    %29.0g     YESNO      does r or spouse have supervisor
+wksubs          byte    %29.0g     YESNO1F    does supervisor have supervisor
+wksup           byte    %29.0g     YESNO      does r or spouse supervise anyone
+wksups          byte    %29.0g     YESNO1F    does subordinate supervise anyone
+unemp           byte    %29.0g     YESNO      ever unemployed in last ten yrs
+union           byte    %29.0g     UNION      does r or spouse belong to union
+getahead        byte    %33.0g     GETAHEAD   opinion of how people get ahead
+parsol          byte    %29.0g     PARSOL     r's living standard compared to
+                                                parents
+kidssol         byte    %29.0g     KIDSSOL    r's kids living standard compared
+                                                to r
+fepol           byte    %29.0g     AGREESCALE
+                                              women not suited for politics
+abdefect        byte    %29.0g     YESNO      strong chance of serious defect
+abnomore        byte    %29.0g     YESNO      married--wants no more children
+abhlth          byte    %29.0g     YESNO      woman's health seriously
+                                                endangered
+abpoor          byte    %29.0g     YESNO      low income--cant afford more
+                                                children
+abrape          byte    %29.0g     YESNO      pregnant as result of rape
+absingle        byte    %29.0g     YESNO      not married
+abany           byte    %29.0g     YESNO      abortion if woman wants for any
+                                                reason
+chldidel        byte    %29.0g     CHLDIDEL   ideal number of children
+pillok          byte    %29.0g     AGREESCALE1F
+                                              birth control to teenagers 14-16
+sexeduc         byte    %29.0g     SEXEDUC    sex education in public schools
+divlaw          byte    %29.0g     DIVLAW     divorce laws
+premarsx        byte    %29.0g     SEXMRLS    sex before marriage
+teensex         byte    %29.0g     SEXMRLS    sex before marriage:teens 14-16
+xmarsex         byte    %29.0g     SEXMRLS    sex with person other than spouse
+homosex         byte    %29.0g     SEXMRLS    homosexual sex relations
+pornlaw         byte    %80.0g     PORNLAW    feelings about pornography laws
+xmovie          byte    %29.0g     YESNO      seen x-rated movie in last year
+spanking        byte    %29.0g     AGREESCALE1F
+                                              favor spanking to discipline
+                                                child
+letdie1         byte    %29.0g     YESNO      allow incurable patients to die
+suicide1        byte    %29.0g     YESNO      suicide if incurable disease
+suicide2        byte    %29.0g     YESNO      suicide if bankrupt
+suicide3        byte    %29.0g     YESNO      suicide if dishonored family
+suicide4        byte    %29.0g     YESNO      suicide if tired of living
+polhitok        byte    %29.0g     YESNO      ever approve of police striking
+                                                citizen
+polabuse        byte    %29.0g     YESNO      citizen said vulgar or obscene
+                                                things
+polmurdr        byte    %29.0g     YESNO      citizen questioned as murder
+                                                suspect
+polescap        byte    %29.0g     YESNO      citizen attempting to escape
+                                                custody
+polattak        byte    %29.0g     YESNO      citizen attacking policeman with
+                                                fists
+fear            byte    %29.0g     YESNO      afraid to walk at night in
+                                                neighborhood
+owngun          byte    %29.0g     GUN        have gun in home
+pistol          byte    %29.0g     GUN        pistol or revolver in home
+shotgun         byte    %29.0g     GUN        shotgun in home
+rifle           byte    %29.0g     GUN        rifle in home
+rowngun         byte    %29.0g     GUN        does gun belong to r
+hunt            byte    %30.0g     HUNT       does r or spouse hunt
+news            byte    %29.0g     NEWS       how often does r read newspaper
+tvhours         byte    %29.0g     TVHOURS    hours per day watching tv
+phone           byte    %29.0g     PHONE      does r have telephone
+coop            byte    %43.0g     COOP       r's attitude toward interview
+comprend        byte    %29.0g     COMPREND   r's understanding of questions
+form            byte    %29.0g     FORM       form of split questionnaire asked
+fechld          byte    %29.0g     AGREESCALE1F
+                                              mother working doesn't hurt
+                                                children
+fepresch        byte    %29.0g     AGREESCALE1F
+                                              preschool kids suffer if mother
+                                                works
+fefam           byte    %29.0g     AGREESCALE1F
+                                              better for man to work, woman
+                                                tend home
+racdif1         byte    %29.0g     YESNO      differences due to discrimination
+racdif2         byte    %29.0g     YESNO      differences due to in-born
+                                                learning ability
+racdif3         byte    %29.0g     YESNO      differences due to lack of
+                                                education
+racdif4         byte    %29.0g     YESNO      differences due to lack of will
+helppoor        byte    %33.0g     HELP       should govt improve standard of
+                                                living?
+helpnot         byte    %29.0g     HELPNOT    should govt do more or less?
+helpsick        byte    %33.0g     HELP       should govt help pay for medical
+                                                care?
+helpblk         byte    %29.0g     HELPBLK    should govt aid blacks?
+wlthwhts        byte    %29.0g     WLTHSCORE
+                                              rich - poor
+wlthblks        byte    %29.0g     WLTHSCORE
+                                              rich - poor
+workwhts        byte    %29.0g     WORKSCORE
+                                              hard working - lazy
+workblks        byte    %29.0g     WORKSCORE
+                                              hard working - lazy
+intlwhts        byte    %29.0g     GRPINTL    unintelligent -intelligent
+intlblks        byte    %29.0g     GRPINTL    unintelligent - intelligent
+liveblks        byte    %29.0g     RACECONT   neighborhood half black
+livewhts        byte    %29.0g     RACECONT   r favors living in half white
+                                                neighborhood
+marblk          byte    %29.0g     RACECONT   close relative marry black
+marwht          byte    %29.0g     RACECONT   r favor close relative marrying
+                                                white person
+racwork         byte    %29.0g     RACWORK    racial makeup of workplace
+discaff         byte    %29.0g     DISCAFF    whites hurt by aff. action
+visitart        byte    %29.0g     YESNO_UPPER
+                                              visited art museum or gallery in
+                                                lst yr
+makeart         byte    %29.0g     YESNO_UPPER
+                                              made art or craft object in lst
+                                                yr
+dance           byte    %29.0g     YESNO_UPPER
+                                              attended dance perf in lst yr
+gomusic         byte    %29.0g     YESNO_UPPER
+                                              attended classical or opera in
+                                                lst yr
+perform         byte    %29.0g     YESNO_UPPER
+                                              performed music, dance, theater
+                                                in lst yr
+seemovie        byte    %29.0g     YESNO_UPPER
+                                              went to a movie in lst yr
+plymusic        byte    %29.0g     YESNO_UPPER
+                                              played a musical instrument in
+                                                lst yr
+fejobaff        byte    %29.0g     FEJOBAFF   for or against preferential
+                                                hiring of women
+discaffm        byte    %29.0g     DISCAFF    a man won't get a job or
+                                                promotion
+discaffw        byte    %29.0g     DISCAFF    a woman won't get a job or
+                                                promotion
+fehire          byte    %29.0g     AGREESCALE2F
+                                              should hire and promote women
+knwmhosp        byte    %29.0g     YESNO_UPPER
+                                              know anyone who was in a hospital
+knwpatnt        byte    %29.0g     YESNO_UPPER
+                                              known anyone seeing a
+                                                psychologist etc?
+readfict        byte    %29.0g     YESNO_UPPER
+                                              read novels poems or plays
+popmusic        byte    %29.0g     YESNO_UPPER
+                                              went to a live performance of
+                                                popular music
+drama           byte    %29.0g     YESNO_UPPER
+                                              went to a live drama
+compuse         byte    %29.0g     YESNO      r use computer
+webtv           byte    %29.0g     YESNO_UPPER
+                                              r has internet via webtv
+emailmin        byte    %29.0g     ONLNMIN    email minutes per week
+emailhr         int     %29.0g     ONLNHR     email hours per week
+usewww          byte    %29.0g     YESNO      r use www other than email
+wwwhr           int     %29.0g     ONLNHR     www hours per week
+wwwmin          byte    %29.0g     ONLNMIN    www minutes per week
+chathr          byte    %29.0g     COUNTMISS
+                                              chatroom hours per week
+chatmin         byte    %29.0g     COUNTMISS
+                                              chatroom minutes per week
+drctlink        byte    %29.0g     BOOKMARA   how often r links from homepage
+typeurl         byte    %29.0g     BOOKMARA   how often r types urls by self
+srcheng         byte    %29.0g     BOOKMARA   how often r uses search engine
+bookmark        byte    %29.0g     BOOKMARA   how often r uses bookmarks
+catdrcty        byte    %29.0g     BOOKMARA   how often r uses web directories
+hyperlnk        byte    %29.0g     BOOKMARA   how often r uses links in other
+                                                sites
+emaillnk        byte    %29.0g     BOOKMARA   how often does r link in an email
+                                                from friend
+fin30           byte    %29.0g     PAST30F    r use financial information site
+                                                in past 30 day
+schl30          byte    %29.0g     PAST30F    r use school site in past 30 days
+educ30          byte    %29.0g     PAST30F    r use education site in past 30
+                                                days
+work30          byte    %29.0g     PAST30F    r use work site in past 30 days
+news30          byte    %29.0g     PAST30F    r use news site in past 30 days
+govt30          byte    %29.0g     PAST30F    r use govt site in past 30 days
+pol30           byte    %29.0g     PAST30F    r use political information site
+                                                in past 30 day
+travel30        byte    %29.0g     PAST30F    r use travel site in past 30 days
+sports30        byte    %29.0g     PAST30F    r use sports site in past 30 days
+music30         byte    %29.0g     PAST30F    r use music site in past 30 days
+art30           byte    %29.0g     PAST30F    r use art site in past 30 days
+tvmov30         byte    %29.0g     PAST30F    r use movie site in past 30 days
+health30        byte    %29.0g     PAST30F    r use health site in past 30 days
+relig30         byte    %29.0g     PAST30F    r use religion site in past 30
+                                                days
+games30         byte    %29.0g     PAST30F    r use game site in past 30 days
+humor30         byte    %29.0g     PAST30F    r use humor site in past 30 days
+porn30          byte    %29.0g     PAST30F    r use pornographic site in past
+                                                30 days
+person30        byte    %29.0g     PAST30F    r use personal website in past 30
+                                                days
+sci30           byte    %29.0g     PAST30F    r use science site in past 30
+                                                days
+hobby30         byte    %29.0g     PAST30F    r use hobby site in past 30 days
+cook30          byte    %29.0g     PAST30F    r use cooking site in past 30
+                                                days
+work12          byte    %29.0g     YESNO_UPPER
+                                              r use web for work in past 12
+                                                months
+hmefin12        byte    %29.0g     YESNO_UPPER
+                                              r use web for home finances in
+                                                past 12 months
+buyinf12        byte    %29.0g     YESNO_UPPER
+                                              r use web for product information
+                                                in past 12 mo
+buyit12         byte    %29.0g     YESNO_UPPER
+                                              r use web to purchase products in
+                                                past 12 month
+invest12        byte    %29.0g     YESNO_UPPER
+                                              r use web to invest money in past
+                                                12 months
+people12        byte    %29.0g     YESNO_UPPER
+                                              r use web to meet new people in
+                                                past 12 months
+health12        byte    %29.0g     YESNO_UPPER
+                                              r use web for health information
+                                                in past 12 mon
+travel12        byte    %29.0g     YESNO_UPPER
+                                              r use web for travel in past 12
+                                                months
+locate12        byte    %29.0g     YESNO_UPPER
+                                              r use web to find addresses in
+                                                past 12 months
+game12          byte    %29.0g     YESNO_UPPER
+                                              r use web for games in past 12
+                                                months
+newjob12        byte    %29.0g     YESNO_UPPER
+                                              r use web to look for new job in
+                                                past 12 months
+chat12          byte    %29.0g     YESNO_UPPER
+                                              r use web for chatrooms in past
+                                                12 months
+polinf12        byte    %29.0g     YESNO_UPPER
+                                              r use web for political
+                                                information in past 12
+econ12          byte    %29.0g     YESNO_UPPER
+                                              past 12 months r web to learn
+                                                economy
+abort12         byte    %29.0g     YESNO_UPPER
+                                              past 12 months r web to learn
+                                                abortion
+moral12         byte    %29.0g     YESNO_UPPER
+                                              past 12 months r web to learn
+                                                moral issues
+foraff12        byte    %29.0g     YESNO_UPPER
+                                              past 12 months r web to learn
+                                                foreign affairs
+racrel12        byte    %29.0g     YESNO_UPPER
+                                              past 12 months r web to learn
+                                                race relations
+enviro12        byte    %29.0g     YESNO_UPPER
+                                              past 12 months r web to learn
+                                                environment
+polcam12        byte    %29.0g     YESNO_UPPER
+                                              past 12 months r web to learn pol
+                                                campaigns
+gun12           byte    %29.0g     YESNO_UPPER
+                                              past 12 months r web to learn gun
+                                                control
+taxes12         byte    %29.0g     YESNO_UPPER
+                                              past 12 months r web to learn
+                                                taxes
+fe12            byte    %29.0g     YESNO_UPPER
+                                              past 12 months r web to learn
+                                                gender issues
+news12          byte    %29.0g     YESNO_UPPER
+                                              past 12 months r web to learn
+                                                news
+polagree        byte    %29.0g     TRUESCALE2F_UPPER
+                                              visit political sites r agrees
+                                                with
+polneutl        byte    %29.0g     TRUESCALE2F_UPPER
+                                              visit politically neutral sites
+poldsagr        byte    %29.0g     TRUESCALE2F_UPPER
+                                              visit political sites r disagrees
+                                                with
+petition        byte    %29.0g     YESNO_UPPER
+                                              web make r sign petition
+contact         byte    %29.0g     YESNO_UPPER
+                                              web make r contact elected
+                                                official
+meeting         byte    %29.0g     YESNO_UPPER
+                                              web make r attend a political
+                                                meeting
+polnew          byte    %29.0g     ARTSNEWA   r learn something new on the web
+votefor         byte    %29.0g     YESNO_UPPER
+                                              web make r decide to vote for a
+                                                political candidate
+polchnge        byte    %29.0g     YESNO_UPPER
+                                              web change r's mind
+polforms        byte    %29.0g     TRUESCALE2F_UPPER
+                                              web help form opinions
+polconf         byte    %29.0g     TRUESCALE2F_UPPER
+                                              web help confirm opinions
+polalter        byte    %29.0g     TRUESCALE2F_UPPER
+                                              web help change mind
+poltough        byte    %29.0g     TRUESCALE2F_UPPER
+                                              web show issues more complicated
+artsmin         byte    %29.0g     COUNTMISS
+                                              how many minutes at arts websites
+artshr          int     %29.0g     COUNTMISS
+                                              how many hours at arts websites
+artschat        byte    %29.0g     YESNO_UPPER
+                                              use chatrooms about arts
+artsnew         byte    %29.0g     ARTSNEWA   r learn something new on web
+                                                about arts
+artschng        byte    %29.0g     YESNO_UPPER
+                                              web change mind about arts on web
+wwwmusic        byte    %29.0g     YESNO_UPPER
+                                              use the web to learn about music
+musicinf        byte    %29.0g     YESNO_UPPER
+                                              use web to get music information
+musicget        byte    %29.0g     YESNO_UPPER
+                                              use web to download music
+musiclst        byte    %29.0g     YESNO_UPPER
+                                              use web to listen to radio
+musicbuy        byte    %29.0g     YESNO_UPPER
+                                              use web to buy music after
+                                                hearing on web
+musiclke        byte    %29.0g     TRUESCALE2F_UPPER
+                                              visit sites about music r likes
+musicdif        byte    %29.0g     TRUESCALE2F_UPPER
+                                              visit many different types of
+                                                music
+musicnew        byte    %29.0g     TRUESCALE2F_UPPER
+                                              visit sites about music not
+                                                usually heard
+wwwart          byte    %29.0g     YESNO_UPPER
+                                              use web to learn about visual
+                                                arts
+artmus1         byte    %29.0g     YESNO_UPPER
+                                              use web to learn about upcoming
+                                                exhibits
+artmus2         byte    %29.0g     YESNO_UPPER
+                                              use web to learn about existing
+                                                exhibits
+artview         byte    %29.0g     YESNO_UPPER
+                                              use web to look at art works
+artinfo         byte    %29.0g     YESNO_UPPER
+                                              use web to find info about
+                                                artists
+artmus3         byte    %29.0g     YESNO_UPPER
+                                              visit museum after learning on
+                                                web
+wwwlit          byte    %29.0g     YESNO_UPPER
+                                              use web to learn about literature
+litsite         byte    %29.0g     YESNO_UPPER
+                                              use web to learn about a book or
+                                                poem
+litget          byte    %29.0g     YESNO_UPPER
+                                              use web to download poem or
+                                                fiction
+litauth         byte    %29.0g     YESNO_UPPER
+                                              visit site associated with writer
+litread         byte    %29.0g     YESNO_UPPER
+                                              read book after seeing author on
+                                                web
+wwwpersn        byte    %29.0g     YESNO_UPPER
+                                              has r met person on web
+wwwsp           byte    %29.0g     YESNO_UPPER
+                                              has anyone met on web become
+                                                spouse
+wwwgfbf         byte    %29.0g     YESNO_UPPER
+                                              has anyone met on web become
+                                                partner
+wwwcowrk        byte    %29.0g     YESNO_UPPER
+                                              has anyone met on web become
+                                                coworker
+wwwbiz          byte    %29.0g     YESNO_UPPER
+                                              has anyone met on web become
+                                                business partner
+wwwnei          byte    %29.0g     YESNO_UPPER
+                                              has anyone met on wen become
+                                                neighbor
+wwwfrnd         byte    %29.0g     YESNO_UPPER
+                                              has anyone met on web become
+                                                friend
+wwwvol          byte    %29.0g     YESNO_UPPER
+                                              has anyone met on web become
+                                                volunteer with r
+advsp           byte    %29.0g     YESNO_UPPER
+                                              r can ask spouse or partner for
+                                                software help
+advchld         byte    %29.0g     YESNO_UPPER
+                                              r can ask son or daughter for
+                                                software help
+advpar          byte    %29.0g     YESNO_UPPER
+                                              r can ask parent for software
+                                                help
+advsib          byte    %29.0g     YESNO_UPPER
+                                              r can ask sibling or sibling
+                                                partner software h
+advfam          byte    %29.0g     YESNO_UPPER
+                                              r can ask other family members
+                                                software help
+advtchr         byte    %29.0g     YESNO_UPPER
+                                              r can ask teacher software help
+advstu          byte    %29.0g     YESNO_UPPER
+                                              r can ask other student software
+                                                help
+advsup          byte    %29.0g     YESNO_UPPER
+                                              r can ask work supervisor
+                                                software help
+advcowrk        byte    %29.0g     YESNO_UPPER
+                                              r can ask coworker software help
+advcfrnd        byte    %29.0g     YESNO_UPPER
+                                              r can ask close friend software
+                                                help
+advofrnd        byte    %29.0g     YESNO_UPPER
+                                              r can ask acquaintance software
+                                                help
+advlib          byte    %29.0g     YESNO_UPPER
+                                              r can ask librarian software help
+download        byte    %29.0g     YESNO_UPPER
+                                              does r know how to download files
+                                                from www
+hlthinfo        byte    %29.0g     NUMTIMES   r sought health information past
+                                                year
+hlthpapr        byte    %29.0g     NUMTIMES   r sought health information
+                                                newspaper articles
+hlthmag1        byte    %29.0g     NUMTIMES   r sought health information
+                                                general interest magazines
+hlthmag2        byte    %29.0g     NUMTIMES   r sought health information
+                                                health magazines
+hlthdoc         byte    %29.0g     NUMTIMES   r sought health information
+                                                doctor or nur'se
+hlthfrel        byte    %29.0g     NUMTIMES   r sought health information
+                                                friends or relatives
+hlthtv          byte    %29.0g     NUMTIMES   r sought health information tv or
+                                                radio
+hlthwww         byte    %29.0g     NUMTIMES   r sought health information www
+buyinfgn        byte    %29.0g     NUMTIMES   r sought information purchase
+                                                past year
+investgn        byte    %29.0g     NUMTIMES   r invested money past year
+travelgn        byte    %29.0g     NUMTIMES   r made travel reservations past
+                                                year
+peoplegn        byte    %29.0g     NUMTIMES   r tried to meet new people past
+                                                year
+gamegn          byte    %29.0g     NUMTIMES   r play an indoor game past year
+poldisgn        byte    %29.0g     NUMTIMES   r discuss political views past
+                                                year
+polinfgn        byte    %29.0g     NUMTIMES   r sought political information
+                                                past year
+perfrmgn        byte    %29.0g     NUMTIMES   r obtain information on
+                                                performing arts past ye
+artgn           byte    %29.0g     NUMTIMES   r obtain information on art
+                                                exhibit past year
+polcangn        byte    %29.0g     NUMTIMES   r look up views of political
+                                                candidate for office
+numcntct        int     %29.0g     NUMCNTCA   how many people in contact least
+                                                once a year
+inperson        byte    %29.0g     COMMUNICATE
+                                              how many people seen in person
+byphone         byte    %29.0g     COMMUNICATE
+                                              how many people talk to on phone
+letters         byte    %29.0g     COMMUNICATE
+                                              how many people write letters to
+meetings        byte    %29.0g     COMMUNICATE
+                                              how many people seen at church or
+                                                group meeting
+byemail         byte    %29.0g     COMMUNICATE
+                                              how many people send email
+comphome        byte    %29.0g     YESNO_UPPER
+                                              does r have computer at home
+wwwhome         byte    %29.0g     YESNO_UPPER
+                                              can r use www at home
+wwwline1        byte    %29.0g     WWWLINEA   is www through phone line
+wwwline2        byte    %51.0g     WWWLIN1A   means to www
+emminh          byte    %29.0g     COUNTMISS
+                                              minutes per week use computer
+                                                email
+emhrh           byte    %29.0g     COUNTMISS
+                                              hours per week use computer email
+wwwminh         byte    %29.0g     COUNTMISS
+                                              minutes per week use computer www
+wwwhrh          int     %29.0g     COUNTMISS
+                                              hours per week use computer www
+compwork        byte    %29.0g     YESNO_UPPER
+                                              does r use computer at work
+emminw          byte    %29.0g     COUNTMISS
+                                              minutes per week using work
+                                                computer email
+emhrw           byte    %29.0g     COUNTMISS
+                                              hours per week using work
+                                                computer email
+wwwminw         byte    %29.0g     COUNTMISS
+                                              minutes per week using work
+                                                computer www
+wwwhrw          byte    %29.0g     COUNTMISS
+                                              hours per week using work
+                                                computer www
+compoth         byte    %29.0g     YESNO_UPPER
+                                              does r use computer not at home
+                                                or work
+compschl        byte    %29.0g     YESNO_UPPER
+                                              does r use computer at school
+complib         byte    %29.0g     YESNO_UPPER
+                                              does r use computer at library
+compfri         byte    %29.0g     YESNO_UPPER
+                                              does r use computer at friends
+                                                house
+compelse        byte    %29.0g     YESNO_UPPER
+                                              does r use computer somewhere
+                                                else
+mostloc         byte    %29.0g     MOSTLOCA   where does r use computer most
+emmino          byte    %29.0g     COUNTMISS
+                                              minutes per week using other
+                                                computer email
+emhro           byte    %29.0g     COUNTMISS
+                                              hours per week using other
+                                                computer email
+wwwmino         byte    %29.0g     COUNTMISS
+                                              minutes per week using other
+                                                computer www
+wwwhro          byte    %29.0g     COUNTMISS
+                                              hours per week using other
+                                                computer www
+emsent          int     %29.0g     COUNTMISS
+                                              how many email messages sent per
+                                                day
+emsentp         int     %29.0g     COUNTMISS
+                                              how many personal email messages
+                                                sent per day
+emget           int     %29.0g     COUNTMISS
+                                              how many email messages received
+                                                per day
+emgetp          int     %29.0g     COUNTMISS
+                                              how many personal messages
+                                                received per day
+emwrkloc        byte    %29.0g     YESNO_UPPER
+                                              r send or receive to or from
+                                                coworkers
+emwrkawy        byte    %29.0g     YESNO_UPPER
+                                              r send or receive to or from
+                                                business contacts
+emfamloc        byte    %29.0g     YESNO_UPPER
+                                              r send or receive to or from
+                                                family members at
+emfamoth        byte    %29.0g     YESNO_UPPER
+                                              r send or receive to or from
+                                                other family members
+emfri           byte    %29.0g     YESNO_UPPER
+                                              r send or receive to or from
+                                                friends
+emchurch        byte    %29.0g     YESNO_UPPER
+                                              r send or receive to or from
+                                                church members
+emgroups        byte    %29.0g     YESNO_UPPER
+                                              r send or receive to or from
+                                                group members
+numprobs        byte    %29.0g     NUMPROBA   how many friends close to discuss
+                                                problems
+byemprob        byte    %29.0g     NUMPROBA   how many friends discuss problems
+                                                via email
+intaccss        byte    %29.0g     YESNO_UPPER
+                                              does r have internet through cell
+                                                phone or pda
+jobinfo         byte    %29.0g     JOBINFOA   r sought employment info past
+                                                year
+jobpaper        byte    %29.0g     NUMTIMES   times r sought job information
+                                                from newspaper
+jobpub          byte    %29.0g     NUMTIMES   times r sought job information
+                                                from publication
+jobcowrk        byte    %29.0g     NUMTIMES   times r sought job information
+                                                from co-workers
+jobcntct        byte    %29.0g     NUMTIMES   times r sought job information
+                                                from contact outside
+jobfrnds        byte    %29.0g     NUMTIMES   times r sought job information
+                                                from friends
+jobplace        byte    %29.0g     NUMTIMES   times r sought job information
+                                                from counseling service
+jobtvrad        byte    %29.0g     NUMTIMES   times r sought job information
+                                                from radio or tv
+jobonwww        byte    %29.0g     NUMTIMES   times r sought job information
+                                                from internet
+emailyr         byte    %31.0g     EMAILYRA   when r first began using email
+webyr           byte    %29.0g     WEBYRA     when r first began using web
+webable         byte    %29.0g     ENGDOA     r's ability to use internet
+manbook         byte    %29.0g     YESNO_UPPER
+                                              r consulted manual for help with
+                                                web
+cussup          byte    %29.0g     YESNO_UPPER
+                                              r called software company
+tecsup          byte    %29.0g     YESNO_UPPER
+                                              called tech support at work
+askwksch        byte    %29.0g     YESNO_UPPER
+                                              r figured out problems with web
+                                                on own
+askelse         byte    %29.0g     YESNO_UPPER
+                                              r asked someone else for help
+payelse         byte    %29.0g     YESNO_UPPER
+                                              r has paid for help
+doself          byte    %29.0g     YESNO_UPPER
+                                              r figured out problems with web
+                                                on own
+processr        byte    %29.0g     PROCESSA   r knows what a processor is
+browser1        byte    %29.0g     YESNO_UPPER
+                                              r knows what an internet web
+                                                browser is
+browser2        byte    %29.0g     YESNO_UPPER
+                                              can r give the name of a web
+                                                browser
+browser3        byte    %29.0g     BROWSE2A   r specify name of web browser
+advsrch         byte    %29.0g     FAMILIAR   how familiar r is with term
+                                                advanced search
+mp3             byte    %29.0g     FAMILIAR   how familiar r is with term mp3
+ezines          byte    %29.0g     FAMILIAR   how familiar r is with term
+                                                e-zines
+prefsets        byte    %29.0g     FAMILIAR   how familiar r is with term
+                                                preference settings
+newsgrps        byte    %29.0g     FAMILIAR   how familiar r is with term
+                                                newsgroups
+ethimp          byte    %29.0g     ETHIMPA    importance of ethnic group to r
+ethignor        byte    %29.0g     AGREESCALE2F_UPPER
+                                              us harmony by ignore ethnic
+                                                differences
+ethnofit        byte    %29.0g     AGREESCALE2F_UPPER
+                                              eth minorities never fit in am
+                                                mainstream
+ethtrads        byte    %29.0g     AGREESCALE2F_UPPER
+                                              society recognize right of ethnic
+                                                traditions
+ethadapt        byte    %29.0g     AGREESCALE2F_UPPER
+                                              minorities must adapt to american
+                                                culture
+feelblks        byte    %29.0g     WARMCOOL   how r feels towards african
+                                                americans
+feelasns        byte    %29.0g     WARMCOOL   how r feels towards asian
+                                                americans
+feelhsps        byte    %29.0g     WARMCOOL   how r feels towards hispanics
+feelwhts        byte    %29.0g     WARMCOOL   how r feel towards caucasians
+ethsame         byte    %29.0g     AGREESCALE2F_UPPER
+                                              individual of same ethnic group
+                                                similar
+ethdiff         byte    %29.0g     AGREESCALE2F_UPPER
+                                              ethnic groups in us different
+whtsdiff        byte    %29.0g     AGREESCALE2F_UPPER
+                                              whites different from minorities
+docvig          byte    %34.0g     DOCVIGA    vignette about the doctor
+regdoc          byte    %29.0g     YESNO_UPPER
+                                              r has regular doctor or clinic
+regdocyr        byte    %29.0g     YESNO_UPPER
+                                              r has had doctor for more than
+                                                one year
+docaskme        byte    %29.0g     DOCASKMA   r prefers doc ask opinion
+docdecid        byte    %29.0g     DOCASKMA   r leaves decisions up to doctor
+docrely         byte    %29.0g     DOCASKMA   r relies on doctors knowledge
+hlthplan        byte    %29.0g     YESNO_UPPER
+                                              r had medicare or medicaid
+chosedoc        byte    %29.0g     YESNO_UPPER
+                                              r had enough choices among docs
+insrlmts        byte    %29.0g     YESNO_UPPER
+                                              r's insurance plan has limits
+diffcare        byte    %29.0g     YESNO_UPPER
+                                              r had difficulty getting
+                                                specialty care
+fininc          byte    %29.0g     YESNO_UPPER
+                                              r heard docs limit used of exp
+                                                tests
+fininc1         byte    %33.0g     FININC1A   importance to r to be told about
+                                                incentives
+fininc2         byte    %34.0g     FININC2A   best time to be told about
+                                                incentives
+fininc3         byte    %52.0g     FININC3A   best person to tell about
+                                                incentives
+fininc4         byte    %29.0g     FININC4A   r likely to ask doc about
+                                                incentives
+belvedoc        byte    %29.0g     YESNOMAYBE
+                                              r believe what doctor said
+docinfo         byte    %29.0g     YESNOMAYBE
+                                              doctor provided enough info
+docnomri        byte    %29.0g     YESNOMAYBE
+                                              r agree with doc decision to not
+                                                order mri
+docsat          byte    %29.0g     QLTYSCALE
+                                              how satisfied r with office visit
+doccosts        byte    %29.0g     DOCCOSTA   how r trust doc put health above
+                                                costs
+docswtch        byte    %29.0g     YESNOMAYBE
+                                              would r switch physicians
+insrchng        byte    %29.0g     YESNOMAYBE
+                                              would r change insurance plans
+secopin         byte    %29.0g     YESNOMAYBE
+                                              would r seek second opinion
+wrktype         byte    %50.0g     WRKTYPE    work arrangement at main job
+yearsjob        float   %29.0g     YEARSJOB   time at current job
+waypaid         byte    %29.0g     WAYPAIDA   how paid in main job
+wrksched        byte    %29.0g     WRKSCHED   usual work schedule
+moredays        byte    %29.0g     COUNTMISS
+                                              days per month r work extra hours
+mustwork        byte    %29.0g     YESNO      mandatory to work extra hours
+chngtme         byte    %29.0g     OFTENSCALE_UPPER
+                                              how often r allowed change
+                                                schedule
+wrkhome         byte    %29.0g     WRKHOME    how often r works at home
+whywkhme        byte    %46.0g     WHYWKHME   usual reason r work at home
+famwkoff        byte    %29.0g     FAMWKOFF   how hard to take time off
+wkvsfam         byte    %29.0g     OFTENSCALE
+                                              how often job interferes fam life
+famvswk         byte    %29.0g     OFTENSCALE
+                                              how often fam life interfere job
+hrsrelax        byte    %29.0g     COUNTMISS
+                                              hours per day r have to relax
+secondwk        byte    %29.0g     YESNO      r has job other than main
+learnnew        byte    %29.0g     AGREESCALE1F
+                                              job requires r to learn new
+                                                things
+workfast        byte    %29.0g     AGREESCALE1F
+                                              job requires r to work fast
+workdiff        byte    %29.0g     AGREESCALE1F
+                                              r does numerous things on job
+lotofsay        byte    %29.0g     AGREESCALE1F_UPPER
+                                              r has lot of say in job
+wktopsat        byte    %29.0g     AGREESCALE1F_UPPER
+                                              satisfaction comes from work
+overwork        byte    %29.0g     AGREESCALE1F
+                                              r has too much work to do well
+knowwhat        byte    %29.0g     AGREESCALE1F
+                                              r knows what's expected on job
+myskills        byte    %29.0g     AGREESCALE1F
+                                              job allows r use of skills
+respect         byte    %29.0g     AGREESCALE1F
+                                              r treated with respect at work
+trustman        byte    %29.0g     AGREESCALE1F
+                                              r trust management at work
+safetywk        byte    %29.0g     AGREESCALE1F
+                                              worker safety priority at work
+safefrst        byte    %29.0g     AGREESCALE1F
+                                              no shortcuts on worker safety
+teamsafe        byte    %29.0g     AGREESCALE1F
+                                              mgt and employees work together
+                                                re safety
+safehlth        byte    %29.0g     AGREESCALE1F
+                                              safety and health condition good
+                                                at work
+proudemp        byte    %29.0g     AGREESCALE1F
+                                              r proud to work for employer
+prodctiv        byte    %29.0g     AGREESCALE1F
+                                              work conditions allow
+                                                productivity
+wksmooth        byte    %29.0g     AGREESCALE1F
+                                              workplace runs in smooth manner
+trdunion        byte    %29.0g     AGREESCALE1F
+                                              workers need strong unions
+partteam        byte    %29.0g     PARTTEAM   r work as part of a team
+wkdecide        byte    %29.0g     OFTENSCALE
+                                              how often r take part in
+                                                decisions
+setthngs        byte    %29.0g     OFTENSCALE_UPPER
+                                              how often r set way things done
+toofewwk        byte    %29.0g     OFTENSCALE
+                                              how often not enough staff
+promteok        byte    %29.0g     TRUESCALE
+                                              r's chances for promotion good
+opdevel         byte    %29.0g     TRUESCALE
+                                              opportunity to develop my
+                                                abilities
+hlpequip        byte    %29.0g     TRUESCALE
+                                              enough help and equip to ge the
+                                                job done
+haveinfo        byte    %29.0g     TRUESCALE
+                                              enough info to get the job done
+wkfreedm        byte    %29.0g     TRUESCALE
+                                              a lot of freedom to decide how to
+                                                do job
+fringeok        byte    %29.0g     TRUESCALE
+                                              fringe benefits are good
+supcares        byte    %29.0g     TRUESCALE
+                                              supervisor concerned about
+                                                welfare
+condemnd        byte    %29.0g     TRUESCALE
+                                              r free from conflicting demands
+promtefr        byte    %29.0g     TRUESCALE
+                                              promotions are handled fairly
+cowrkint        byte    %29.0g     TRUESCALE
+                                              coworkers take a personal
+                                                interest in r
+jobsecok        byte    %29.0g     TRUESCALE
+                                              the job security is good
+suphelp         byte    %29.0g     TRUESCALE
+                                              supervisor helpful to r in
+                                                getting job done
+wrktime         byte    %29.0g     TRUESCALE
+                                              r has enough time to get the job
+                                                done
+cowrkhlp        byte    %29.0g     TRUESCALE
+                                              coworkers can be relied on when r
+                                                needs help
+trainops        byte    %29.0g     TRUESCALE
+                                              r have the training opportunities
+manvsemp        byte    %29.0g     MANVSEMP   relations bw management and
+                                                employees
+hvylift         byte    %29.0g     YESNO      r do repeated lifting
+handmove        byte    %29.0g     YESNO      r perform forceful hand movements
+wkpraise        byte    %29.0g     YESMAYBENO
+                                              r is likely to be praised by
+                                                supervisor
+wkbonus         byte    %29.0g     YESMAYBENO
+                                              r is likely to get a bonus or pay
+                                                increase
+fairearn        byte    %30.0g     FAIREARN   how fair is what r earn on the
+                                                job
+rincblls        byte    %29.0g     YESNO      income alone is enough
+laidoff         byte    %29.0g     YESNO      r was laid off main job last year
+jobfind1        byte    %35.0g     JOBFIND1F
+                                              how easy for r to find a same job
+trynewjb        byte    %29.0g     TRYNEWJB   how likely r make effort for new
+                                                job next year
+wkageism        byte    %29.0g     YESNO      r feels discriminated because of
+                                                age
+wkracism        byte    %29.0g     YESNO      r feels discriminated because of
+                                                race
+wksexism        byte    %29.0g     YESNO      r feels discriminated because of
+                                                gender
+wkharsex        byte    %29.0g     YESNO      r sexually harassed on the job
+                                                last 12 months
+wkharoth        byte    %29.0g     YESNO      r threatened on the job last 12
+                                                months
+health1         byte    %29.0g     QLTYSCALE
+                                              r's health in general
+physhlth        byte    %29.0g     COUNTMISS
+                                              days of poor physical health past
+                                                30 days
+mntlhlth        byte    %29.0g     COUNTMISS
+                                              days of poor mental health past
+                                                30 days
+hlthdays        byte    %29.0g     COUNTMISS
+                                              days of activity limitation past
+                                                30 days
+usedup          byte    %29.0g     USEDUP     how often during past month r
+                                                felt used up
+backpain        byte    %29.0g     YESNO      r had back pain in the past 12
+                                                months
+painarms        byte    %29.0g     YESNO      r had pain in the arms in the
+                                                past 12 months
+hurtatwk        byte    %29.0g     NUM7F      number of injuries on the job
+                                                past 12 months
+satjob1         byte    %29.0g     SATJOB1F   job satisfaction in general
+workfor         byte    %31.0g     WORKFORA   r work for whom
+ownstock        byte    %56.0g     OWNSTOCK   r has stock in r's company
+stockval        double  %29.0g     DOLLARVAL
+                                              total dollar value of r's stock
+stockops        byte    %29.0g     YESNO      r hold any stock options of r's
+                                                company
+extrapay        byte    %29.0g     YESNO      eligible for performance based
+                                                pay
+compperf        byte    %29.0g     YESNO      size of perf based pay depend on
+                                                profits
+deptperf        byte    %29.0g     YESNO      size of perf based pay depend on
+                                                workgroup
+indperf         byte    %29.0g     YESNO      size of perf based pay depend on
+                                                individual
+extr2001        byte    %29.0g     YESNO_UPPER
+                                              did r receive perf based payment
+                                                in 2001
+extraval        double  %29.0g     DOLLARVAL
+                                              total dollar value of pay in
+                                                previous year
+extrayr         int     %29.0g     COUNTMISS
+                                              year of the most recent perf
+                                                based payments
+yearval         double  %29.0g     DOLLARVAL
+                                              total dollar value of payments in
+                                                that year
+seecowrk        byte    %29.0g     SEECOWRA   how easy to see whether
+                                                co-workers working
+cowrkhrd        byte    %29.0g     COWRKHRA   how hard to say how people work
+                                                at workplace
+talkemp         byte    %29.0g     LIKELYSCALEREV_UPPER
+                                              how likely to talk directly if
+                                                coworker not work
+talksup         byte    %37.0g     TALKSUPA   how likely to speak supervisor if
+                                                coworker not w
+donothng        byte    %29.0g     LIKELYSCALEREV_UPPER
+                                              how likely to do nothing if
+                                                coworker not working
+lastwkmo        byte    %29.0g     MONTH_UPPER
+                                              what month were you last working
+lastwkyr        int     %29.0g     COUNTMISS
+                                              what year were you last working
+empathy1        byte    %29.0g     EMPATHYA   r have tender feeling for people
+                                                less fortunate
+empathy2        byte    %29.0g     EMPATHYA   r does not feel very sorry for
+                                                people having pro
+empathy3        byte    %29.0g     EMPATHYA   r feels protective towards people
+                                                taken advantage
+empathy4        byte    %29.0g     EMPATHYA   others misfortunes do not disturb
+                                                r
+empathy5        byte    %29.0g     EMPATHYA   r does not feel pity for someone
+                                                treated unfair
+empathy6        byte    %29.0g     EMPATHYA   r often quite touched by things
+empathy7        byte    %29.0g     EMPATHYA   r describes oneself as a
+                                                soft-hearted person
+givblood        byte    %38.0g     CARRIEDA   r donated blood during the past
+                                                12 months
+givhmlss        byte    %38.0g     CARRIEDA   r has given food or money to a
+                                                homeless person
+retchnge        byte    %38.0g     CARRIEDA   r returned money after getting
+                                                too much change
+cutahead        byte    %38.0g     CARRIEDA   r allowed a stranger to go ahead
+                                                of you in line
+volchrty        byte    %38.0g     CARRIEDA   r done volunteer work for a
+                                                charity
+givchrty        byte    %38.0g     CARRIEDA   r has given money to a charity
+givseat         byte    %38.0g     CARRIEDA   r offered seat to a stranger
+                                                during past 12 months
+helpaway        byte    %38.0g     CARRIEDA   r looked after plant or pet of
+                                                others while away
+carried         byte    %38.0g     CARRIEDA   r carried a stranger's belongings
+directns        byte    %38.0g     CARRIEDA   r has given directions to a
+                                                stranger
+loanitem        byte    %38.0g     CARRIEDA   r has let someone borrow a item
+                                                of some value
+selfless        byte    %29.0g     ACCPTOTA   r feels like a selfless caring
+                                                for others
+accptoth        byte    %29.0g     ACCPTOTA   r accept others even when they do
+                                                things wrong
+othshelp        byte    %29.0g     AGREESCALE2F_UPPER
+                                              people should help less fortunate
+                                                others
+careself        byte    %29.0g     AGREESCALE2F_UPPER
+                                              those in need have to take care
+                                                of themselves
+peoptrbl        byte    %29.0g     AGREESCALE2F_UPPER
+                                              assisting people in trouble is
+                                                very important
+selffrst        byte    %29.0g     AGREESCALE2F_UPPER
+                                              people need not overly worry
+                                                about others
+finind          byte    %29.0g     EDDONEA    young should be financially
+                                                independent
+finind1         byte    %29.0g     COUNTMISS
+                                              aged should be financially
+                                                independent
+ownhh           byte    %29.0g     EDDONEA    young should not live with
+                                                parents
+ownhh1          byte    %29.0g     COUNTMISS
+                                              aged should stop living with
+                                                parents
+eddone          byte    %29.0g     EDDONEA    young should complete formal
+                                                schooling
+eddone1         byte    %29.0g     COUNTMISS
+                                              aged should complete formal
+                                                schooling
+ftwork          byte    %29.0g     EDDONEA    young should be employed
+                                                full-time
+ftwork1         byte    %29.0g     COUNTMISS
+                                              aged should be employed full-time
+supfam          byte    %29.0g     EDDONEA    young should be able to support
+                                                family
+supfam1         byte    %29.0g     COUNTMISS
+                                              aged should be able to support
+                                                family
+havchld         byte    %29.0g     EDDONEA    young should have child
+havchld1        byte    %29.0g     COUNTMISS
+                                              aged should have child
+getmar          byte    %29.0g     EDDONEA    young should get married
+getmar1         byte    %29.0g     COUNTMISS
+                                              aged should get married
+boycott         byte    %29.0g     YESNO_UPPER
+                                              have ever boycotted a product
+                                                past 5 years
+signpet         byte    %29.0g     YESNO_UPPER
+                                              have ever signed a petition past
+                                                5 years
+protest         byte    %29.0g     YESNO_UPPER
+                                              have ever joined a protest rally
+                                                past 5 years
+conoffcl        byte    %29.0g     YESNO_UPPER
+                                              have ever contacted an elected
+                                                official
+givchng         byte    %29.0g     YESNO_UPPER
+                                              have given money to group
+                                                advocating social change
+hlpneedy        byte    %29.0g     YESNO_UPPER
+                                              have ever contributed time to
+                                                help the needy
+partthon        byte    %29.0g     YESNO_UPPER
+                                              have participated in a walkathon
+                                                over past 5 years
+chldvig         byte    %29.0g     COUNTMISS
+                                              vignette asked
+chldprb         byte    %34.0g     CHLDPRBA   what r think may be wrong with a
+                                                named youth
+chldprob        byte    %29.0g     SERIOUSP   how serious r consider his or her
+                                                problem
+chldhlp         byte    %31.0g     CHLDHLPA   what should be done to help a
+                                                named youth
+badchar         byte    %29.0g     LIKELYSCALE_UPPER
+                                              situation caused by own bad
+                                                character
+chembal         byte    %29.0g     LIKELYSCALE_UPPER
+                                              situation by a chemical imbalance
+                                                in the brain
+stressfl        byte    %29.0g     LIKELYSCALE_UPPER
+                                              situation caused by stressful
+                                                circumstances
+geneprob        byte    %29.0g     LIKELYSCALE_UPPER
+                                              situation caused by a genetic or
+                                                inherited problem
+raised          byte    %29.0g     LIKELYSCALE_UPPER
+                                              situation caused by the way he or
+                                                she was raised
+violtv          byte    %29.0g     LIKELYSCALE_UPPER
+                                              situation caused by watching
+                                                violent tv
+discipln        byte    %29.0g     LIKELYSCALE_UPPER
+                                              situation caused by lacking
+                                                discipline in the
+allergic        byte    %29.0g     LIKELYSCALE_UPPER
+                                              situation caused by food or
+                                                chemical allergies
+bettrown        byte    %29.0g     LIKELYSCALE_UPPER
+                                              situation will improve on its own
+imprvdis        byte    %29.0g     LIKELYSCALE_UPPER
+                                              situation will improve with
+                                                strict discipline
+imprveat        byte    %29.0g     LIKELYSCALE_UPPER
+                                              situation will improve with some
+                                                changes in diet
+imprvmed        byte    %29.0g     LIKELYSCALE_UPPER
+                                              situation will improve with
+                                                medical treatment
+nextdoor        byte    %29.0g     VIGNETTE   how willing r move next door to
+                                                child's family
+spendeve        byte    %29.0g     VIGNETTE   how willing r spend evening with
+                                                child's family
+chldfrnd        byte    %29.0g     VIGNETTE   how willing r have children make
+                                                friends with ch
+chldsch         byte    %29.0g     VIGNETTE   how willing r have child in same
+                                                class of r's ch
+adfam           byte    %29.0g     YESNO_UPPER
+                                              would r get advice from family if
+                                                child was r's
+adfammed        byte    %29.0g     LIKELYSCALE_UPPER
+                                              would r have child be on
+                                                medication by fam advice
+adtch           byte    %29.0g     YESNO_UPPER
+                                              would r get advice from teachers
+                                                child if was r's
+adtchmed        byte    %29.0g     LIKELYSCALE_UPPER
+                                              would have child be on med by
+                                                teachers advice
+addoc           byte    %29.0g     YESNO_UPPER
+                                              would go to a medical doctor if
+                                                he was r's child
+addocmed        byte    %29.0g     LIKELYSCALE_UPPER
+                                              would have child be on med by
+                                                docs advice
+adcou           byte    %29.0g     YESNO_UPPER
+                                              would r go to counselor if child
+                                                was r's
+adcoumed        byte    %29.0g     LIKELYSCALE_UPPER
+                                              would r have child on med by
+                                                counselor's advice
+adpsy           byte    %29.0g     YESNO_UPPER
+                                              would r go to a psychiatrist if
+                                                child was r's
+adpsymed        byte    %29.0g     LIKELYSCALE_UPPER
+                                              would r have child on med by
+                                                psychiatrists ad
+adhos           byte    %29.0g     YESNO_UPPER
+                                              would r check child into a
+                                                hospital if was r's
+adhosmed        byte    %29.0g     LIKELYSCALE_UPPER
+                                              would r have child be on med by
+                                                hospital staff
+forcedoc        byte    %29.0g     YESNO_UPPER
+                                              should child be forced by law to
+                                                be treated by doc
+forcemed        byte    %29.0g     YESNO_UPPER
+                                              should child be forced by law to
+                                                take a prescription
+forcehos        byte    %29.0g     YESNO_UPPER
+                                              should child be forced by law to
+                                                admit to a hosp
+grwingup        byte    %29.0g     LIKELYSCALE3F_UPPER
+                                              is child experiencing normal ups
+                                                and downs
+mntlill         byte    %29.0g     LIKELYSCALE3F_UPPER
+                                              is child experiencing a mental
+                                                illness
+illphys         byte    %29.0g     LIKELYSCALE3F_UPPER
+                                              is child experiencing a physical
+                                                illness
+violpeop        byte    %29.0g     LIKELYSCALE3F_UPPER
+                                              would child do something violent
+                                                toward other
+violself        byte    %29.0g     LIKELYSCALE3F_UPPER
+                                              would child do something violent
+                                                to own self
+outsider        byte    %29.0g     AGREESCALE5R_UPPER
+                                              getting mental health treatment
+                                                make child an
+sufadult        byte    %29.0g     AGREESCALE5R_UPPER
+                                              would child suffer as adult if
+                                                other learn
+comknows        byte    %29.0g     AGREESCALE5R_UPPER
+                                              people in community still know
+                                                who had mental
+failure         byte    %29.0g     AGREESCALE5R_UPPER
+                                              mental treatment for child make
+                                                parent feel like
+ovrmedkd        byte    %29.0g     AGREESCALE5R_UPPER
+                                              docs are over medicating child
+                                                with common problem
+medkdneg        byte    %29.0g     AGREESCALE5R_UPPER
+                                              medicating child will have long
+                                                term negative
+putsoff         byte    %29.0g     AGREESCALE5R_UPPER
+                                              psychiatric med only put off
+                                                dealing with problem
+trbllaw         byte    %29.0g     AGREESCALE5R_UPPER
+                                              child with med get into less
+                                                trouble with the
+medsavtx        byte    %29.0g     AGREESCALE5R_UPPER
+                                              govt programs for mental health
+                                                treatment will
+zombies         byte    %29.0g     AGREESCALE5R_UPPER
+                                              med for behavior problems turn
+                                                kids into zombies
+pryntfam        byte    %29.0g     AGREESCALE5R_UPPER
+                                              med just prevent family from
+                                                working out problem
+adhdknow        byte    %29.0g     ADHDKNOA   what does r know about adhd
+adhdknw         byte    %29.0g     ADHDKNWA   what does r know about adhd
+                                                (verbatim)
+adhdreal        byte    %29.0g     YESNO_UPPER
+                                              is adhd a real disease
+adhdcon         byte    %29.0g     YESNO_UPPER
+                                              children should be given
+                                                counseling for adhd
+adhdmed         byte    %29.0g     YESNO_UPPER
+                                              children should be given
+                                                medication to treat adhd
+mntlrel         byte    %32.0g     MNTLRELA   effect of mental health problem
+                                                on relation with
+medsymps        byte    %29.0g     AGREESCALE5R_UPPER
+                                              med for mental health problem
+                                                help people
+medaddct        byte    %29.0g     AGREESCALE5R_UPPER
+                                              med for mental health problem are
+                                                addictive
+medweak         byte    %29.0g     AGREESCALE5R_UPPER
+                                              taking medications is a sign of
+                                                weakness
+medunacc        byte    %29.0g     AGREESCALE5R_UPPER
+                                              med for mental health problem
+                                                often have side of
+solveown        byte    %48.0g     SOLVEOWA   r would solve problem on ones own
+                                                or get advice
+doc15a          byte    %29.0g     DOC15A1A   doctor not really care me as a
+                                                person
+doc16a          byte    %29.0g     DOC15A1A   doctors judgment trusted
+doc18a          byte    %29.0g     DOC15A1A   doctor put medical needs above
+                                                all other
+doc19a          byte    %29.0g     DOC15A1A   doctor a real expert in taking
+                                                care problem
+doc20a          byte    %29.0g     DOC15A1A   doctor tell me if a mistake was
+                                                made
+aidold          byte    %29.0g     SHOULDSCALE
+                                              govts resp: provide for the
+                                                elderly
+matime1         byte    %29.0g     MATIME1F   how long does it take to get to
+                                                where mother live
+sibnum          byte    %29.0g     COUNTMISS
+                                              number of adult sister or brother
+sibmost         byte    %50.0g     SIBMOST    do r have the most contact with
+                                                sister or brother
+sibvisit        byte    %45.0g     KIDVISIT   how often does r visit this
+                                                sister or brother
+sibcall         byte    %29.0g     KIDCALL    how often does r contact by
+                                                telephone or letter
+kidnum          byte    %29.0g     COUNTMISS
+                                              number of children age 18 and
+                                                older
+kidmost         byte    %41.0g     KIDMOST    do r have the most contact with
+                                                son or daughter
+kidvisit        byte    %45.0g     KIDVISIT   how often does r visit this son
+                                                or daughter
+kidcall         byte    %29.0g     KIDCALL    how often does r contact by
+                                                telephone or letter
+pavisit1        byte    %38.0g     PAVISIT1F
+                                              how often does r visit father
+pacall1         byte    %29.0g     BSTCALL    how often does r contact father
+                                                by telephone
+mavisit1        byte    %39.0g     MAVISIT1F
+                                              how often does r visit mother
+macall1         byte    %29.0g     BSTCALL    how often does r contact mother
+                                                by telephone
+uncaunts        byte    %38.0g     EXTENDEDFAM
+                                              how often does r contact uncles
+                                                or aunts
+cousins         byte    %38.0g     EXTENDEDFAM
+                                              how often does r contact cousin
+parslaw         byte    %38.0g     EXTENDEDFAM
+                                              how often does r contact
+                                                parents-in-law
+sibinlaw        byte    %38.0g     EXTENDEDFAM
+                                              how often does r contact brothers
+                                                or sister's-in-law
+niecenep        byte    %38.0g     EXTENDEDFAM
+                                              how often does r contact nieces
+                                                and nephews
+godparts        byte    %38.0g     EXTENDEDFAM
+                                              how often does r contact
+                                                god-parents
+cowrkfrd        byte    %29.0g     COWRKFRD   number of close friends at work
+                                                place
+neifrd          byte    %30.0g     NEIFRD     number of close friends who live
+                                                near r
+bestfrd         byte    %29.0g     BESTFRD    number of other close friends
+bstvisit        byte    %45.0g     BSTVISIT   how often does r visit best
+                                                friend
+bstcall         byte    %29.0g     BSTCALL    how often does r call best friend
+grppol          byte    %46.0g     GRPACTIVITY
+                                              participated in activity of
+                                                political party
+grpunion        byte    %46.0g     GRPACTIVITY
+                                              participated in activity of a
+                                                trade union
+grpchurh        byte    %46.0g     GRPACTIVITY
+                                              participated in activity of
+                                                church past 12 months
+grpsport        byte    %46.0g     GRPACTIVITY
+                                              participated in sports group past
+                                                12 months
+grpchrty        byte    %46.0g     GRPACTIVITY
+                                              participated in a charitable org
+                                                past 12 months
+grpnei          byte    %46.0g     GRPACTIVITY
+                                              participated in a neighbor
+                                                association past 12 months
+grpoth          byte    %46.0g     GRPACTIVITY
+                                              participated in other
+                                                associations past 12 months
+sick1a          byte    %35.0g     SICK1A     who does r turn to first for help
+                                                when sick
+sick2a          byte    %35.0g     SICK2A     who does r turn to second for
+                                                help when sick
+borrow1a        byte    %36.0g     BORROW1AF
+                                              who does r turn to first when
+                                                large money needed
+borrow2a        byte    %36.0g     BORROW1AF
+                                              who does r turn to second when
+                                                large money needed
+down1a          byte    %46.0g     DOWN1AF    who does r turn to first for help
+                                                when depressed
+down2a          byte    %46.0g     DOWN1AF    who does r turn to second for
+                                                help when depressed
+helphwrk        byte    %44.0g     ISSPSOCNETFREQ
+                                              helped someone with hwork during
+                                                past 12 months
+lentto          byte    %44.0g     ISSPSOCNETFREQ
+                                              lent money to another person past
+                                                12 months
+talkedto        byte    %44.0g     ISSPSOCNETFREQ
+                                              talked with someone depressed
+                                                past 12 months
+helpjob         byte    %44.0g     ISSPSOCNETFREQ
+                                              helped somebody to find a job
+                                                past 12 months
+learnjob        byte    %48.0g     LEARNJOB   how did r find out about present
+                                                work
+frdthink        byte    %29.0g     ISSPSOCNETIMP
+                                              should close friend be someone
+                                                intelligent
+frdhelps        byte    %29.0g     ISSPSOCNETIMP
+                                              should close friend be someone
+                                                who helps r
+frdknows        byte    %29.0g     ISSPSOCNETIMP
+                                              should close friend be someone
+                                                who understands r
+frdenjoy        byte    %29.0g     ISSPSOCNETIMP
+                                              should close friend be someone
+                                                who is enjoyable
+kidpars         byte    %29.0g     AGREESCALE2C
+                                              do adult children have duty to
+                                                look after parent
+firstyou        byte    %29.0g     AGREESCALE2C
+                                              should take care of oneself and
+                                                ones family first
+helpfrds        byte    %29.0g     AGREESCALE2C
+                                              should better off ppl help less
+                                                well-off friend
+usefrds         byte    %29.0g     AGREESCALE2C
+                                              ok to have frds just bc they are
+                                                of use to r
+aidkids         byte    %29.0g     SHOULDSCALE
+                                              govts resp provide childcare
+othfrd          byte    %29.0g     OTHFRD     number of other close friends
+demands         byte    %29.0g     DEMANDS    r feels that family make too many
+                                                demands on r
+trustpeo        byte    %29.0g     AGREESCALE2C
+                                              there are only a few ppl r can
+                                                trust completely
+wantbest        byte    %29.0g     AGREESCALE2C
+                                              r is sure that other ppl want the
+                                                best for r
+advantge        byte    %29.0g     AGREESCALE2C
+                                              other ppl will take advantage of
+                                                r if not careful
+comyear         int     %29.0g     COUNTMISS
+                                              how long has r lived in city
+                                                where r lives now
+localgvt        byte    %29.0g     LIKELYSCALE
+                                              how likely can r do sth for
+                                                improvmnt in community
+goodlife        byte    %29.0g     AGREESCALE2C
+                                              standard of living of r will
+                                                improve
+mawrkwrm        byte    %29.0g     AGREESCALE2C
+                                              working mom can have a warm rel w
+                                                kids
+kidsuffr        byte    %29.0g     AGREESCALE2C
+                                              preschooler will suffer if mom
+                                                works
+famsuffr        byte    %29.0g     AGREESCALE2C
+                                              family life suffers if mom works
+                                                f-t
+homekid         byte    %29.0g     AGREESCALE2C
+                                              most women really want a home and
+                                                kids
+housewrk        byte    %29.0g     AGREESCALE2C
+                                              being housewife as fulfilling as
+                                                paid work
+fejobind        byte    %29.0g     AGREESCALE2C
+                                              job is best way for woman to be
+                                                indep
+wrknokid        byte    %29.0g     ISSPWORK   shld mom work aftr marriage,
+                                                before kids?
+wrkbaby         byte    %29.0g     ISSPWORK   shld woman with preschooler work?
+wrksch          byte    %29.0g     ISSPWORK   shld woman work after youngest in
+                                                school?
+wrkgrown        byte    %29.0g     ISSPWORK   shld woman work after kids leave
+                                                home?
+marhappy        byte    %29.0g     AGREESCALE2C
+                                              married people happier than
+                                                unmarried
+marnomar        byte    %29.0g     AGREESCALE2C
+                                              bad marriage better than none at
+                                                all
+marlegit        byte    %29.0g     AGREESCALE2C
+                                              those wanting kids should get
+                                                married
+kidjoy          byte    %29.0g     AGREESCALE2C
+                                              kids are life's greatest joy
+kidempty        byte    %29.0g     AGREESCALE2C
+                                              kidless people lead empty lives
+mawork14        byte    %29.0g     MAWORK14F
+                                              did mom work before r was 14 yrs
+                                                old
+rwrknokd        byte    %29.0g     ISSPRWORK
+                                              did r work aftr marrge but before
+                                                kids
+rwrkbaby        byte    %29.0g     ISSPRWORK
+                                              did r work when kid was
+                                                preschooler
+rwrksch         byte    %29.0g     ISSPRWORK
+                                              did r work after youngest in
+                                                school
+rwrkgrwn        byte    %29.0g     ISSPRWORK
+                                              did r work after kids left home
+hubbywk1        byte    %29.0g     AGREESCALE2C
+                                              men should earn money women keep
+                                                house
+meovrwrk        byte    %29.0g     AGREESCALE2C
+                                              men hurt family when focus on
+                                                work too much
+singlpar        byte    %29.0g     AGREESCALE2C
+                                              single parents can raise kids as
+                                                well as two
+cohabok         byte    %29.0g     AGREESCALE2C
+                                              living together as an acceptable
+                                                option
+cohabfst        byte    %29.0g     AGREESCALE2C
+                                              people should live together
+                                                before marriage
+divbest         byte    %29.0g     AGREESCALE2C
+                                              divorce as best solution to
+                                                marital problems
+mapaid          byte    %29.0g     AGREESCALE2C
+                                              should working women have paid
+                                                maternity leave
+chldcare        byte    %29.0g     AGREESCALE2C
+                                              should families get benefits if
+                                                both parents work
+fambudgt        byte    %37.0g     FAMBUDGT   how couples monitor budget
+spwknokd        byte    %29.0g     ISSPSPWORK
+                                              did spouse work after marriage
+                                                before kids
+spwkbaby        byte    %29.0g     ISSPSPWORK
+                                              did spouse work with young
+                                                children
+spwrksch        byte    %29.0g     ISSPSPWORK
+                                              did spouse work with school age
+                                                children
+spwkgrwn        byte    %29.0g     ISSPSPWORK
+                                              did spouse work after children
+                                                left home
+mehhwork        byte    %29.0g     AGREESCALE2C
+                                              men ought to do more hh work than
+                                                they do now
+mekdcare        byte    %29.0g     AGREESCALE2C
+                                              men ought to do more childcare
+                                                than they do now
+laundry1        byte    %29.0g     DIVLABOR   who in household does laundry
+repairs1        byte    %29.0g     DIVLABOR   who in household does small
+                                                repairs
+caresik1        byte    %29.0g     DIVLABOR   who in household cares for sick
+                                                in family
+shop1           byte    %29.0g     DIVLABOR   who in household shops for
+                                                groceries
+clean1          byte    %29.0g     DIVLABOR   who in household does cleaning
+cooking1        byte    %29.0g     DIVLABOR   who in household prepares the
+                                                meals
+rhhwork         int     %29.0g     RHHWORK    how many hours a week does r
+                                                spend on hh work
+sphhwork        int     %29.0g     COUNTMISS
+                                              how many hours a week does spouse
+                                                on hh wrk
+hhwkfair        byte    %45.0g     HHWKFAIR   sharing of hh work between r and
+                                                spouse
+hhwkdis         byte    %29.0g     HHWKDIS    how often r and spouse disagree
+                                                sharing of hh wrk
+deckids         byte    %35.0g     DECKIDS    who makes decision about how to
+                                                bring up children
+weekend         byte    %35.0g     ISSPDIVLABOR
+                                              who has final say about choosing
+                                                weekend activity
+buythngs        byte    %35.0g     ISSPDIVLABOR
+                                              who has final say about buying
+                                                things for home
+timehome        byte    %29.0g     AGREESCALE2C
+                                              run out of time before getting
+                                                things done at home
+strsshme        byte    %29.0g     AGREESCALE2C
+                                              life at home is rarely stressful
+timework        byte    %29.0g     AGREESCALE2C
+                                              run out of time before getting
+                                                things done at work
+strsswrk        byte    %29.0g     AGREESCALE2C
+                                              job is rarely stressful
+tiredhme        byte    %29.0g     ISSP3MOFREQ
+                                              come home from work too tired to
+                                                do the chores
+jobvsfam        byte    %29.0g     ISSP3MOFREQ
+                                              difficult to fulfill fam
+                                                responsibility bc of job
+tiredwrk        byte    %29.0g     ISSP3MOFREQ
+                                              arrived at work too tired to
+                                                function bc of hhwork
+famvswrk        byte    %29.0g     ISSP3MOFREQ
+                                              difficult to concentrate wrk bc
+                                                of fam responsibility
+happy7          byte    %29.0g     HAPPY7F    how happy r is
+satjob7         byte    %34.0g     SATFAM7F   job satisfaction in general
+satfam7         byte    %34.0g     SATFAM7F   family satisfaction in general
+fewknokd        byte    %29.0g     FEWKNOKD   women should work outside when no
+                                                kids
+twoincs1        byte    %29.0g     AGREESCALE2F
+                                              both men and women should
+                                                contribute to income
+earnshh         byte    %37.0g     EARNSHH    hubby or wife earns more dollars
+stress          byte    %29.0g     DEMINT     how often does r find work
+                                                stressful
+localnum        byte    %29.0g     LOCALNUM   number of employees: r's work
+                                                site
+hapunhap        byte    %29.0g     HAPUNHAP   happy or unhappy with life today
+partners        byte    %29.0g     PARTNERS   how many sex partner's r had in
+                                                last year
+matesex         byte    %29.0g     YESNO      was 1 of r's partner's spouse or
+                                                regular
+frndsex         byte    %29.0g     YESNO      r had sex with friend last year
+acqntsex        byte    %29.0g     YESNO      r had sex with acquaintance last
+                                                year
+pikupsex        byte    %29.0g     YESNO      r had sex with casual date last
+                                                year
+paidsex         byte    %29.0g     YESNO      r had sex for pay last year
+othersex        byte    %29.0g     YESNO      r had sex with some other last
+                                                year
+sexsex          byte    %29.0g     SEXSEX     sex of sex partner's in last year
+sexfreq         byte    %29.0g     SEXFREQ    frequency of sex during last year
+numwomen        int     %29.0g     NUMPART    number of female sex partner's
+                                                since 18
+nummen          int     %29.0g     NUMPART    number of male sex partner's
+                                                since 18
+partnrs5        byte    %29.0g     PARTNERS   how many sex partner's r had in
+                                                last 5 years
+sexsex5         byte    %29.0g     SEXSEX     sex of sex partner's last five
+                                                years
+evpaidsx        byte    %29.0g     YESNO      ever have sex paid for or being
+                                                paid since 18
+evstray         byte    %29.0g     EVSTRAY    have sex other than spouse while
+                                                married
+condom          byte    %29.0g     CONDOM     used condom last time
+relatsex        byte    %91.0g     RELATSEX   relation to last sex partner
+evidu           byte    %29.0g     YESNO      r ever inject drugs
+idu30           byte    %51.0g     DRGFREQ    r inject drugs in past 30 days
+evcrack         byte    %29.0g     YESNO      r ever use crack cocaine
+crack30         byte    %51.0g     DRGFREQ    r last use crack cocaine
+realinc         double  %29.0g     COUNTMISS
+                                              family income in constant $
+realrinc        double  %29.0g     COUNTMISS
+                                              r's income in constant $
+coninc          double  %29.0g     COUNTMISS
+                                              family income in constant dollars
+conrinc         double  %29.0g     COUNTMISS
+                                              respondent income in constant
+                                                dollars
+ethnic          int     %29.0g     ETHNIC     country of family origin
+eth1            int     %29.0g     ETHNIC     1st mentioned country of origin
+eth2            int     %29.0g     ETHNIC     2nd mentioned country of origin
+eth3            int     %29.0g     ETHNIC     3rd mentioned country of origin
+ethnum          byte    %41.0g     ETHNUM     type of response about
+                                                ethnicity:r
+hispanic        byte    %36.0g     HISPANIC   hispanic specified
+racecen1        byte    %32.0g     RACECEN    what is r's race 1st mention
+racecen2        byte    %32.0g     RACECEN    what is r's race 2nd mention
+racecen3        byte    %32.0g     RACECEN    what is r's race 3rd mention
+dwelling        byte    %52.0g     DWELLING   type of structure
+dwelown         byte    %29.0g     DWELOWN    does r own or rent home?
+relate1         byte    %30.0g     RELATIVE   relationship of 1st person to
+                                                household head
+gender1         byte    %29.0g     GENDER     gender of 1st person
+old1            byte    %29.0g     OLD        age of 1st person
+mar1            byte    %29.0g     MARITAL    marital status of 1st person
+relate2         byte    %30.0g     RELATIVE   relationship of 2nd person to
+                                                household head
+gender2         byte    %29.0g     GENDER     gender of 2nd person
+old2            byte    %29.0g     OLD        age of 2nd person
+mar2            byte    %29.0g     MARITAL    marital status of 2nd person
+relate3         byte    %30.0g     RELATIVE   relationship of 3rd person to
+                                                household head
+gender3         byte    %29.0g     GENDER     gender of 3rd person
+old3            byte    %29.0g     OLD        age of 3rd person
+mar3            byte    %29.0g     MARITAL    marital status of 3rd person
+relate4         byte    %30.0g     RELATIVE   relationship of 4th person to
+                                                household head
+gender4         byte    %29.0g     GENDER     gender of 4th person
+old4            byte    %29.0g     OLD        age of 4th person
+mar4            byte    %29.0g     MARITAL    marital status of 4th person
+relate5         byte    %30.0g     RELATIVE   relationship of 5th person to
+                                                household head
+gender5         byte    %29.0g     GENDER     gender of 5th person
+old5            byte    %29.0g     OLD        age of 5th person
+mar5            byte    %29.0g     MARITAL    marital status of 5th person
+relate6         byte    %30.0g     RELATIVE   relationship of 6th person to
+                                                household head
+gender6         byte    %29.0g     GENDER     gender of 6th person
+old6            byte    %29.0g     OLD        age of 6th person
+mar6            byte    %29.0g     MARITAL    marital status of 6th person
+relate7         byte    %30.0g     RELATIVE   relationship of 7th person to
+                                                household head
+gender7         byte    %29.0g     GENDER     gender of 7th person
+old7            byte    %29.0g     OLD        age of 7th person
+mar7            byte    %29.0g     MARITAL    marital status of 7th person
+relate8         byte    %30.0g     RELATIVE   relationship of 8th person to
+                                                household head
+gender8         byte    %29.0g     GENDER     gender of 8th person
+old8            byte    %29.0g     OLD        age of 8th person
+mar8            byte    %29.0g     MARITAL    marital status of 8th person
+relate9         byte    %30.0g     RELATIVE   relationship of 9th person to
+                                                household head
+old9            byte    %29.0g     OLD        age of 9th person
+relate10        byte    %30.0g     RELATIVE   relationship of 10th person to
+                                                household head
+gender10        byte    %29.0g     GENDER     gender of 10th person
+old10           byte    %29.0g     OLD        age of 1oth person
+relate11        byte    %30.0g     RELATIVE   relation of 11th person (visitor)
+                                                to head
+gender11        byte    %29.0g     GENDER     gender of 11th person (visitor)
+old11           byte    %29.0g     OLD        age of 11th person (visitor)
+mar11           byte    %29.0g     MARITAL    marital status of 11th person
+                                                (visitor)
+relate12        byte    %30.0g     RELATIVE   relation of 12th person (visitor)
+                                                to head
+gender12        byte    %29.0g     GENDER     gender of 12th person (visitor)
+old12           byte    %29.0g     OLD        age of 12th person (visitor)
+relhhd1         byte    %47.0g     RELHHD     relation of 1st person to
+                                                household head
+relhhd2         byte    %47.0g     RELHHD     relation of 2nd person to
+                                                household head
+relhhd3         byte    %47.0g     RELHHD     relation of 3rd person to
+                                                household head
+relhhd4         byte    %47.0g     RELHHD     relation of 4th person to
+                                                household head
+relhhd5         byte    %47.0g     RELHHD     relation of 5th person to
+                                                household head
+relhhd6         byte    %47.0g     RELHHD     relation of 6th person to
+                                                household head
+relhhd7         byte    %47.0g     RELHHD     relation of 7th person to
+                                                household head
+relhhd8         byte    %47.0g     RELHHD     relation of 8th person to
+                                                household head
+relhhd9         byte    %47.0g     RELHHD     relation of 9th person to
+                                                household head
+relhhd10        byte    %47.0g     RELHHD     relation of 1oth person to
+                                                household head
+relhhd11        byte    %47.0g     RELHHD     relation of 11th person (visitor)
+                                                to head
+relhhd12        byte    %47.0g     RELHHD     relation of 12th person (visitor)
+                                                to head
+hefinfo         byte    %29.0g     HEFINFO    number of hef informant
+hhrace          byte    %33.0g     HHRACE     race of household
+respnum         byte    %29.0g     RESPNUM    number in family of r
+hhtype          int     %29.0g     HHTYPE     household type
+hhtype1         byte    %33.0g     HHTYPE1F   household type (condensed)
+famgen          byte    %44.0g     FAMGEN     number of family generations in
+                                                household
+rplace          byte    %30.0g     RELATIVE   r's relationship to household
+                                                head
+rvisitor        byte    %29.0g     RVISITOR   is r a visitor?
+visitors        byte    %29.0g     VISITORS   number of visitor's in household
+relhh1          byte    %47.0g     RELHH      relationship of person 1 to head
+                                                of household
+relhh2          byte    %47.0g     RELHH      relationship of person 2 to head
+                                                of household
+relhh3          byte    %47.0g     RELHH      relationship of person 3 to head
+                                                of household
+relhh4          byte    %47.0g     RELHH      relationship of person 4 to head
+                                                of household
+relhh5          byte    %47.0g     RELHH      relationship of person 5 to head
+                                                of household
+relhh6          byte    %47.0g     RELHH      relationship of person 6 to head
+                                                of household
+relhh7          byte    %47.0g     RELHH      relationship of person 7 to head
+                                                of household
+relhh8          byte    %47.0g     RELHH      relationship of person 8 to head
+                                                of household
+relhh9          byte    %47.0g     RELHH      relationship of person 9 to head
+                                                of household
+relhh10         byte    %47.0g     RELHH      relationship of person 10 to head
+                                                of household
+relhh11         byte    %47.0g     RELHH      relationship of person 11 to head
+                                                of household
+relhh12         byte    %47.0g     RELHH      relationship of person 12 to head
+                                                of household
+relsp1          byte    %47.0g     RELSP      relationship of person 1 to
+                                                spouse of househol
+relsp2          byte    %47.0g     RELSP      relationship of person 2 to
+                                                spouse of househol
+relsp3          byte    %47.0g     RELSP      relationship of person 3 to
+                                                spouse of househol
+relsp4          byte    %47.0g     RELSP      relationship of person 4 to
+                                                spouse of househol
+relsp5          byte    %47.0g     RELSP      relationship of person 5 to
+                                                spouse of househol
+relsp6          byte    %47.0g     RELSP      relationship of person 6 to
+                                                spouse of househol
+relsp7          byte    %47.0g     RELSP      relationship of person 7 to
+                                                spouse of househol
+relsp8          byte    %47.0g     RELSP      relationship of person 8 to
+                                                spouse of househol
+relsp9          byte    %47.0g     RELSP      relationship of person 9 to
+                                                spouse of househol
+relsp10         byte    %47.0g     RELSP      relationship of person 10 to
+                                                spouse of househo
+relsp11         byte    %47.0g     RELSP      relationship of person 11 to
+                                                spouse of househo
+dateintv        int     %29.0g     COUNTMISS
+                                              date of interview
+isco681         int     %29.0g     COUNTMISS
+                                              respondent's occupation, 1980
+                                                census
+paisc681        int     %29.0g     COUNTMISS
+                                              r's father's occupation, 1980
+                                                census
+maisc681        int     %29.0g     COUNTMISS
+                                              r's mothers occupation, 1980
+                                                census
+spisc681        int     %29.0g     COUNTMISS
+                                              r's spouse's occupation, 1980
+                                                census
+isco88          int     %29.0g     ISCO88F    respondent's occupation, 1980
+                                                census & 1988 isco code
+paisco88        int     %29.0g     ISCO88F    r's father's occupation, 1980
+                                                census & 1988 isco code
+maisco88        int     %29.0g     ISCO88F    r's mothers occupation, 1980
+                                                census & 1988 isco code
+spisco88        int     %29.0g     ISCO88F    r's spouse's occupation, 1980
+                                                census & 1988 isco code
+sei             double  %29.0g     MISS       respondent socioeconomic index
+                                                (1980)
+pasei           double  %29.0g     MISS       r's father's socioeconomic index
+                                                (1980)
+masei           double  %29.0g     MISS       r's mothers socioeconomic index
+                                                (1980)
+spsei           double  %29.0g     MISS       r's spouse's socioeconomic index
+                                                (1980)
+sei10           double  %29.0g     MISS       r's socioeconomic index (2010)
+sei10educ       double  %29.0g     MISS       percentage of some college educ
+                                                in occ10 based on acs 2010
+sei10inc        double  %29.0g     MISS       percentage of $45k+ earners in
+                                                occ10 based on acs 2010
+pasei10         double  %29.0g     MISS       r's father's socioeconomic index
+                                                (2010)
+pasei10educ     double  %29.0g     MISS       percentage of some college educ
+                                                in paocc10 based on acs 2010
+pasei10inc      double  %29.0g     MISS       percentage of $45k+ earners in
+                                                paocc10 based on acs 2010
+masei10         double  %29.0g     MISS       r's mother's socioeconomic index
+                                                (2010)
+masei10educ     double  %29.0g     MISS       percentage of some college educ
+                                                in maocc10 based on acs 2010
+masei10inc      double  %29.0g     MISS       percentage of $45k+ earners in
+                                                maocc10 based on acs 2010
+spsei10         double  %29.0g     MISS       r's spouse's socioeconomic index
+                                                (2010)
+spsei10educ     double  %29.0g     MISS       percentage of some college educ
+                                                in spocc10 based on acs 2010
+spsei10inc      double  %29.0g     MISS       percentage of $45k+ earners in
+                                                spocc10 based on acs 2010
+uswary          byte    %29.0g     YESNO      expect u.s. in world war in 10
+                                                years
+cohort          int     %29.0g     COUNTMISS
+                                              year of birth
+zodiac          byte    %29.0g     ZODIAC     respondents astrological sign
+whoelse1        byte    %29.0g     YESNO      presence of others: children
+                                                under six
+whoelse2        byte    %29.0g     YESNO      presence of others: older
+                                                children
+whoelse3        byte    %29.0g     YESNO      presence of others: spouse
+                                                partner
+whoelse4        byte    %29.0g     YESNO      presence of others: other
+                                                relatives
+whoelse5        byte    %29.0g     YESNO      presence of others: other adults
+whoelse6        byte    %29.0g     YESNO      presence of others: no one
+saqissp         byte    %29.0g     SAQISSP    r did issp module
+saqsex          byte    %29.0g     SAQSEX     r did sex module
+feeused         byte    %32.0g     FEEUSED    fee given to get case
+death           byte    %29.0g     DEATH      r's possible vital status as of
+                                                2014
+ballot          byte    %29.0g     BALLOT     ballot used for interview
+version         byte    %29.0g     VERSION    version of questionnaire
+issp            byte    %29.0g     ISSP       filter for issp cases
+formwt          double  %29.0g     COUNTMISS
+                                              weight deal with experimental
+                                                randomization
+sampcode        int     %29.0g     COUNTMISS
+                                              sampling error code
+sample          byte    %58.0g     SAMPLE     sampling frame and method
+oversamp        double  %29.0g     OVERSAMP   weights for black oversamples
+wtss            double  %29.0g     WTSS       weight variable
+wtssnr          double  %29.0g     WTSS       weight variable
+wtssall         double  %29.0g     WTSS       weight variable
+vstrat          int     %29.0g     COUNTMISS
+                                              variance stratum
+vpsu            int     %29.0g     COUNTMISS
+                                              variance primary sampling unit
+wtssps          double  %29.0g     WTSS       person post-stratification weight
+wtssnrps        double  %29.0g     WTSS       person post-stratification
+                                                weight, nonrespondents adjusted
+fileversion     double  %29.0g     FILEVER    gss data file version
+-------------------------------------------------------------------------------
+Sorted by: 
+
+Variable      Storage   Display    Value
+    name         type    format    label      Variable label
+-------------------------------------------------------------------------------
+adhdreal        byte    %29.0g     YESNO_UPPER
+                                              is adhd a real disease
+educ            byte    %29.0g     EDUC       highest year of school completed
+childs          byte    %29.0g     NUM8F      number of children
+adhdcon         byte    %29.0g     YESNO_UPPER
+                                              children should be given
+                                                counseling for adhd
+adhdmed         byte    %29.0g     YESNO_UPPER
+                                              children should be given
+                                                medication to treat adhd
+income          byte    %29.0g     INCOME     total family income
+
+-------------------------------------------------------------------------------
+adhdreal                                                 is adhd a real disease
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (byte)
+                 Label: YESNO_UPPER
+
+                 Range: [1,2]                         Units: 1
+         Unique values: 2                         Missing .: 0/2,765
+       Unique mv codes: 3                        Missing .*: 1,897/2,765
+
+            Tabulation: Freq.   Numeric  Label
+                          685         1  yes
+                          183         2  no
+                           37        .d  don't know
+                        1,859        .i  iap
+                            1        .n  no answer
+
+-------------------------------------------------------------------------------
+educ                                           highest year of school completed
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (byte)
+                 Label: EDUC, but 20 nonmissing values are not labeled
+
+                 Range: [0,20]                        Units: 1
+         Unique values: 21                        Missing .: 0/2,765
+       Unique mv codes: 2                        Missing .*: 12/2,765
+
+              Examples: 12    
+                        12    
+                        14    
+                        16    
+
+-------------------------------------------------------------------------------
+childs                                                       number of children
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (byte)
+                 Label: NUM8F, but 8 nonmissing values are not labeled
+
+                 Range: [0,8]                         Units: 1
+         Unique values: 9                         Missing .: 0/2,765
+       Unique mv codes: 1                        Missing .*: 5/2,765
+
+            Tabulation: Freq.   Numeric  Label
+                          799         0  
+                          469         1  
+                          657         2  
+                          481         3  
+                          185         4  
+                           73         5  
+                           40         6  
+                           22         7  
+                           34         8  8 or more
+                            5        .d  don't know
+
+-------------------------------------------------------------------------------
+adhdcon                            children should be given counseling for adhd
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (byte)
+                 Label: YESNO_UPPER
+
+                 Range: [1,2]                         Units: 1
+         Unique values: 2                         Missing .: 0/2,765
+       Unique mv codes: 2                        Missing .*: 1,885/2,765
+
+            Tabulation: Freq.   Numeric  Label
+                          758         1  yes
+                          122         2  no
+                           26        .d  don't know
+                        1,859        .i  iap
+
+-------------------------------------------------------------------------------
+adhdmed                       children should be given medication to treat adhd
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (byte)
+                 Label: YESNO_UPPER
+
+                 Range: [1,2]                         Units: 1
+         Unique values: 2                         Missing .: 0/2,765
+       Unique mv codes: 3                        Missing .*: 1,921/2,765
+
+            Tabulation: Freq.   Numeric  Label
+                          595         1  yes
+                          249         2  no
+                           57        .d  don't know
+                        1,859        .i  iap
+                            5        .n  no answer
+
+-------------------------------------------------------------------------------
+income                                                      total family income
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (byte)
+                 Label: INCOME
+
+                 Range: [1,12]                        Units: 1
+         Unique values: 12                        Missing .: 0/2,765
+       Unique mv codes: 3                        Missing .*: 302/2,765
+
+              Examples: 10    $15,000 to $19,999
+                        12    $25,000 or more
+                        12    $25,000 or more
+                        12    $25,000 or more
+
+        dup |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |      2,765      100.00      100.00
+------------+-----------------------------------
+      Total |      2,765      100.00
+
+-------------------------------------------------------------------------------
+id                                                       Respondent's ID Number
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (int)
+
+                 Range: [1,2765]                      Units: 1
+         Unique values: 2,765                     Missing .: 0/2,765
+
+                  Mean:    1383
+             Std. dev.: 798.331
+
+           Percentiles:     10%       25%       50%       75%       90%
+                            277       692      1383      2074      2489
+(1,897 missing values generated)
+(1,859 observations deleted)
+
+  adhd_real |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |        685       75.61       75.61
+          2 |        183       20.20       95.81
+         .d |         37        4.08       99.89
+         .n |          1        0.11      100.00
+------------+-----------------------------------
+      Total |        906      100.00
+
+  adhd_real |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |        685       75.61       75.61
+          2 |        183       20.20       95.81
+         .d |         37        4.08       99.89
+         .n |          1        0.11      100.00
+------------+-----------------------------------
+      Total |        906      100.00
+
+           number of children |      Freq.     Percent        Cum.
+------------------------------+-----------------------------------
+                            0 |        248       27.37       27.37
+                            1 |        163       17.99       45.36
+                            2 |        224       24.72       70.09
+                            3 |        169       18.65       88.74
+                            4 |         58        6.40       95.14
+                            5 |         19        2.10       97.24
+                            6 |          9        0.99       98.23
+                            7 |          7        0.77       99.01
+                    8 or more |          7        0.77       99.78
+                   don't know |          2        0.22      100.00
+------------------------------+-----------------------------------
+                        Total |        906      100.00
+
+     children should be given |
+     medication to treat adhd |      Freq.     Percent        Cum.
+------------------------------+-----------------------------------
+                          yes |        595       65.67       65.67
+                           no |        249       27.48       93.16
+                   don't know |         57        6.29       99.45
+                    no answer |          5        0.55      100.00
+------------------------------+-----------------------------------
+                        Total |        906      100.00
+
+     children should be given |
+          counseling for adhd |      Freq.     Percent        Cum.
+------------------------------+-----------------------------------
+                          yes |        758       83.66       83.66
+                           no |        122       13.47       97.13
+                   don't know |         26        2.87      100.00
+------------------------------+-----------------------------------
+                        Total |        906      100.00
+
+                     number of children
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%            0              0
+ 5%            0              0
+10%            0              0       Obs                 904
+25%            0              0       Sum of wgt.         904
+
+50%            2                      Mean           1.774336
+                        Largest       Std. dev.      1.579199
+75%            3              8
+90%            4              8       Variance        2.49387
+95%            4              8       Skewness       .9838551
+99%            7              8       Kurtosis       4.453581
+
+              highest year of school completed
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%            7              2
+ 5%           10              2
+10%           11              5       Obs                 904
+25%           12              6       Sum of wgt.         904
+
+50%           14                      Mean           13.96903
+                        Largest       Std. dev.      2.689369
+75%           16             20
+90%           18             20       Variance       7.232705
+95%           19             20       Skewness      -.0053032
+99%           20             20       Kurtosis       3.641857
+
+                     total family income
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%            1              1
+ 5%            6              1
+10%            9              1       Obs                 826
+25%           11              1       Sum of wgt.         826
+
+50%           12                      Mean           10.99274
+                        Largest       Std. dev.      2.242281
+75%           12             12
+90%           12             12       Variance       5.027826
+95%           12             12       Skewness      -2.868519
+99%           12             12       Kurtosis       11.29546
+(bin=29, start=0, width=.27586207)
+(bin=29, start=2, width=.62068966)
+(bin=28, start=1, width=.39285714)
+(38 real changes made, 38 to missing)
+
+  adhd_real |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |        685       75.61       75.61
+          2 |        183       20.20       95.81
+          . |         38        4.19      100.00
+------------+-----------------------------------
+      Total |        906      100.00
+(26 real changes made, 26 to missing)
+
+     children should be given |
+          counseling for adhd |      Freq.     Percent        Cum.
+------------------------------+-----------------------------------
+                          yes |        758       83.66       83.66
+                           no |        122       13.47       97.13
+                            . |         26        2.87      100.00
+------------------------------+-----------------------------------
+                        Total |        906      100.00
+(62 real changes made, 62 to missing)
+
+     children should be given |
+     medication to treat adhd |      Freq.     Percent        Cum.
+------------------------------+-----------------------------------
+                          yes |        595       65.67       65.67
+                           no |        249       27.48       93.16
+                            . |         62        6.84      100.00
+------------------------------+-----------------------------------
+                        Total |        906      100.00
+
+-------------------------------------------------------------------------------
+adhd_real                                                           (unlabeled)
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (float)
+
+                 Range: [1,2]                         Units: 1
+         Unique values: 2                         Missing .: 38/906
+
+            Tabulation: Freq.  Value
+                          685  1
+                          183  2
+                           38  .
+(38 missing values generated)
+(183 real changes made)
+(37 observations deleted)
+(1 observation deleted)
+
+-------------------------------------------------------------------------------
+adhdreal_clean                        does the respondent believe ADHD is real?
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (float)
+                 Label: adhdreal_clean
+
+                 Range: [0,1]                         Units: 1
+         Unique values: 2                         Missing .: 0/868
+
+            Tabulation: Freq.   Numeric  Label
+                          183         0  no
+                          685         1  yes
+
+           number of children |      Freq.     Percent        Cum.
+------------------------------+-----------------------------------
+                            0 |        238       27.48       27.48
+                            1 |        154       17.78       45.27
+                            2 |        214       24.71       69.98
+                            3 |        164       18.94       88.91
+                            4 |         57        6.58       95.50
+                            5 |         19        2.19       97.69
+                            6 |          8        0.92       98.61
+                            7 |          7        0.81       99.42
+                    8 or more |          5        0.58      100.00
+------------------------------+-----------------------------------
+                        Total |        866      100.00
+(2 missing values generated)
+
+-------------------------------------------------------------------------------
+children                                                     number of children
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (float)
+                 Label: children, but label does not exist
+
+                 Range: [0,8]                         Units: 1
+         Unique values: 9                         Missing .: 0/868
+       Unique mv codes: 1                        Missing .*: 2/868
+
+            Tabulation: Freq.  Value
+                          238  0
+                          154  1
+                          214  2
+                          164  3
+                           57  4
+                           19  5
+                            8  6
+                            7  7
+                            5  8
+                            2  .d
+(2 observations deleted)
+
+-------------------------------------------------------------------------------
+children                                                     number of children
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (float)
+                 Label: children, but label does not exist
+
+                 Range: [0,8]                         Units: 1
+         Unique values: 9                         Missing .: 0/866
+
+            Tabulation: Freq.  Value
+                          238  0
+                          154  1
+                          214  2
+                          164  3
+                           57  4
+                           19  5
+                            8  6
+                            7  7
+                            5  8
+
+  number of |
+   children |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |        238       27.48       27.48
+          1 |        154       17.78       45.27
+          2 |        214       24.71       69.98
+          3 |        164       18.94       88.91
+          4 |         57        6.58       95.50
+          5 |         19        2.19       97.69
+          6 |          8        0.92       98.61
+          7 |          7        0.81       99.42
+          8 |          5        0.58      100.00
+------------+-----------------------------------
+      Total |        866      100.00
+
+           |  does the respondent
+ number of | believe ADHD is real?
+  children |        no        yes |     Total
+-----------+----------------------+----------
+         0 |        53        185 |       238 
+         1 |        32        122 |       154 
+         2 |        38        176 |       214 
+         3 |        38        126 |       164 
+         4 |         9         48 |        57 
+         5 |         4         15 |        19 
+         6 |         4          4 |         8 
+         7 |         2          5 |         7 
+         8 |         3          2 |         5 
+-----------+----------------------+----------
+     Total |       183        683 |       866 
+
+           |  children should be
+           | given counseling for
+ number of |         adhd
+  children |       yes         no |     Total
+-----------+----------------------+----------
+         0 |       197         39 |       236 
+         1 |       133         20 |       153 
+         2 |       191         21 |       212 
+         3 |       137         21 |       158 
+         4 |        47          7 |        54 
+         5 |        11          5 |        16 
+         6 |         5          2 |         7 
+         7 |         6          0 |         6 
+         8 |         3          2 |         5 
+-----------+----------------------+----------
+     Total |       730        117 |       847 
+
+   children should be |
+  given medication to |             number of children
+           treat adhd |         0          1          2          3 |     Total
+----------------------+--------------------------------------------+----------
+                  yes |       147        101        149        112 |       575 
+                   no |        78         42         55         46 |       242 
+----------------------+--------------------------------------------+----------
+                Total |       225        143        204        158 |       817 
+
+
+   children should be |
+  given medication to |             number of children
+           treat adhd |         4          5          6          7 |     Total
+----------------------+--------------------------------------------+----------
+                  yes |        39         11          6          6 |       575 
+                   no |        12          5          2          1 |       242 
+----------------------+--------------------------------------------+----------
+                Total |        51         16          8          7 |       817 
+
+
+   children should be | number of
+  given medication to |  children
+           treat adhd |         8 |     Total
+----------------------+-----------+----------
+                  yes |         4 |       575 
+                   no |         1 |       242 
+----------------------+-----------+----------
+                Total |         5 |       817 
+
+           |  children should be
+           |  given medication to
+ number of |      treat adhd
+  children |       yes         no |     Total
+-----------+----------------------+----------
+         0 |       147         78 |       225 
+         1 |       101         42 |       143 
+         2 |       149         55 |       204 
+         3 |       112         46 |       158 
+         4 |        39         12 |        51 
+         5 |        11          5 |        16 
+         6 |         6          2 |         8 
+         7 |         6          1 |         7 
+         8 |         4          1 |         5 
+-----------+----------------------+----------
+     Total |       575        242 |       817 
+
+-------------------------------------------------------------------------------
+educ                                           highest year of school completed
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (byte)
+                 Label: EDUC, but 17 nonmissing values are not labeled
+
+                 Range: [2,20]                        Units: 1
+         Unique values: 17                        Missing .: 0/866
+       Unique mv codes: 1                        Missing .*: 1/866
+
+              Examples: 12    
+                        13    
+                        14    
+                        16    
+
+    Variable |        Obs        Mean    Std. dev.       Min        Max
+-------------+---------------------------------------------------------
+        educ |        865    13.99306    2.701157          2         20
+(1 missing value generated)
+(87 real changes made)
+(225 real changes made)
+(554 real changes made)
+
+-------------------------------------------------------------------------------
+education                      what level of education does the respondent have
+-------------------------------------------------------------------------------
+
+                  Type: Numeric (float)
+                 Label: education
+
+                 Range: [0,2]                         Units: 1
+         Unique values: 3                         Missing .: 0/866
+
+            Tabulation: Freq.   Numeric  Label
+                           87         0  less than high school
+                          225         1  high school degree
+                          554         2  went into higher education
+
+Variable      Storage   Display    Value
+    name         type    format    label      Variable label
+-------------------------------------------------------------------------------
+adhdreal        byte    %29.0g     YESNO_UPPER
+                                              is adhd a real disease
+childs          byte    %29.0g     NUM8F      number of children
+educ            byte    %29.0g     EDUC       highest year of school completed
+adhdcon         byte    %29.0g     YESNO_UPPER
+                                              children should be given
+                                                counseling for adhd
+adhdmed         byte    %29.0g     YESNO_UPPER
+                                              children should be given
+                                                medication to treat adhd
+income          byte    %29.0g     INCOME     total family income
+
+  adhd_real |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |        683       78.87       78.87
+          2 |        183       21.13      100.00
+------------+-----------------------------------
+      Total |        866      100.00
+
+           number of children |      Freq.     Percent        Cum.
+------------------------------+-----------------------------------
+                            0 |        238       27.48       27.48
+                            1 |        154       17.78       45.27
+                            2 |        214       24.71       69.98
+                            3 |        164       18.94       88.91
+                            4 |         57        6.58       95.50
+                            5 |         19        2.19       97.69
+                            6 |          8        0.92       98.61
+                            7 |          7        0.81       99.42
+                    8 or more |          5        0.58      100.00
+------------------------------+-----------------------------------
+                        Total |        866      100.00
+
+     children should be given |
+     medication to treat adhd |      Freq.     Percent        Cum.
+------------------------------+-----------------------------------
+                          yes |        575       66.40       66.40
+                           no |        242       27.94       94.34
+                            . |         49        5.66      100.00
+------------------------------+-----------------------------------
+                        Total |        866      100.00
+
+     children should be given |
+          counseling for adhd |      Freq.     Percent        Cum.
+------------------------------+-----------------------------------
+                          yes |        730       84.30       84.30
+                           no |        117       13.51       97.81
+                            . |         19        2.19      100.00
+------------------------------+-----------------------------------
+                        Total |        866      100.00
+
+                     number of children
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%            0              0
+ 5%            0              0
+10%            0              0       Obs                 866
+25%            0              0       Sum of wgt.         866
+
+50%            2                      Mean           1.771363
+                        Largest       Std. dev.      1.560617
+75%            3              8
+90%            4              8       Variance       2.435526
+95%            4              8       Skewness       .9121953
+99%            7              8       Kurtosis       4.206404
+
+              highest year of school completed
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%            7              2
+ 5%           10              2
+10%           11              5       Obs                 865
+25%           12              6       Sum of wgt.         865
+
+50%           14                      Mean           13.99306
+                        Largest       Std. dev.      2.701157
+75%           16             20
+90%           18             20       Variance       7.296248
+95%           19             20       Skewness      -.0194392
+99%           20             20       Kurtosis       3.675172
+
+                     total family income
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%            1              1
+ 5%            6              1
+10%            9              1       Obs                 799
+25%           11              1       Sum of wgt.         799
+
+50%           12                      Mean           10.98748
+                        Largest       Std. dev.      2.257229
+75%           12             12
+90%           12             12       Variance       5.095081
+95%           12             12       Skewness      -2.872626
+99%           12             12       Kurtosis       11.28172
+(bin=29, start=0, width=.27586207)
+(bin=29, start=1, width=.03448276)
+(bin=29, start=1, width=.03448276)
+option over not allowed
+r(198);
+(bin=29, start=1, width=.03448276)
+option over() not allowed
+r(198);
+(0 real changes made)
+
+  adhd_real |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |        683       78.87       78.87
+          2 |        183       21.13      100.00
+------------+-----------------------------------
+      Total |        866      100.00
+(0 real changes made)
+
+     children should be given |
+          counseling for adhd |      Freq.     Percent        Cum.
+------------------------------+-----------------------------------
+                          yes |        730       84.30       84.30
+                           no |        117       13.51       97.81
+                            . |         19        2.19      100.00
+------------------------------+-----------------------------------
+                        Total |        866      100.00
+(0 real changes made)
+
+     children should be given |
+     medication to treat adhd |      Freq.     Percent        Cum.
+------------------------------+-----------------------------------
+                          yes |        575       66.40       66.40
+                           no |        242       27.94       94.34
+                            . |         49        5.66      100.00
+------------------------------+-----------------------------------
+                        Total |        866      100.00
+(0 real changes made)
+
+           number of children |      Freq.     Percent        Cum.
+------------------------------+-----------------------------------
+                            0 |        238       27.48       27.48
+                            1 |        154       17.78       45.27
+                            2 |        214       24.71       69.98
+                            3 |        164       18.94       88.91
+                            4 |         57        6.58       95.50
+                            5 |         19        2.19       97.69
+                            6 |          8        0.92       98.61
+                            7 |          7        0.81       99.42
+                    8 or more |          5        0.58      100.00
+------------------------------+-----------------------------------
+                        Total |        866      100.00
+(0 real changes made)
+
+  adhd_real |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |        683       78.87       78.87
+          2 |        183       21.13      100.00
+------------+-----------------------------------
+      Total |        866      100.00
+(0 real changes made)
+
+     children should be given |
+          counseling for adhd |      Freq.     Percent        Cum.
+------------------------------+-----------------------------------
+                          yes |        730       84.30       84.30
+                           no |        117       13.51       97.81
+                            . |         19        2.19      100.00
+------------------------------+-----------------------------------
+                        Total |        866      100.00
+(0 real changes made)
+
+     children should be given |
+     medication to treat adhd |      Freq.     Percent        Cum.
+------------------------------+-----------------------------------
+                          yes |        575       66.40       66.40
+                           no |        242       27.94       94.34
+                            . |         49        5.66      100.00
+------------------------------+-----------------------------------
+                        Total |        866      100.00
